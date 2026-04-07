@@ -2488,3 +2488,6 @@ sharethrough.com, 1175, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 1175-OB, RESELLER, d53b998a7bd4ecd2
 thunder-monetize.com, 1947298216, RESELLER
 ogury.com, ede8d6ba-5a3f-4dfa-85aa-8cfb3c42f970, RESELLER
+#2026-04-03
+vidgyor.com, 22192, DIRECT
+sharethrough.com, 3554, RESELLER, d53b998a7bd4ecd2
