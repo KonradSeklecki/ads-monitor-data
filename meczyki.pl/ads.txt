@@ -1755,3 +1755,23 @@ video.unrulymedia.com,724823153,RESELLER
 33across.com,0010b00002mpthcaaz,DIRECT,bbea06d9c4d2853c
 sharethrough.com,axs5nfbr,DIRECT,d53b998a7bd4ecd2
 beachfront.com,15250,RESELLER,e2541279e8e2ca4d
+vdo.ai, 4487, DIRECT
+atlas5.co, 4487, DIRECT
+walletcircle.co, 4487, DIRECT
+google.com, pub-7094677798399606, RESELLER, f08c47fec0942fa0
+google.com, pub-2403018226404213, RESELLER, f08c47fec0942fa0
+vuukle.com, f6efd7fb-07ab-4cd7-886f-44bfc6549ad0, DIRECT, c8034d3da4547abf
+google.com, pub-3494520468788589, DIRECT, f08c47fec0942fa0
+datawrkz.com, 2478, DIRECT
+rubiconproject.com, 24874, DIRECT, 0bfd66d529a55807
+google.com, pub-8309773808661346, RESELLER, f08c47fec0942fa0
+adform.com, 3354, RESELLER, 9f5210a2f0999e32
+freewheel.tv, 536103-r-524565, RESELLER
+madvertise.com, 7014, RESELLER
+pubmatic.com, 156695, RESELLER, 5d62403b186f2ace
+sharethrough.com, 1175, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, 1175-OB, RESELLER, d53b998a7bd4ecd2
+thunder-monetize.com, 1947298216, RESELLER
+ogury.com, ede8d6ba-5a3f-4dfa-85aa-8cfb3c42f970, RESELLER
+video.unrulymedia.com, 266978658, RESELLER
+sharethrough.com, 3554, RESELLER, d53b998a7bd4ecd2
