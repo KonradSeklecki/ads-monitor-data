@@ -215,6 +215,7 @@ aps.amazon.com, 93aec77c-f6d2-45bd-affc-a85ab5a72683, RESELLER
 aps.amazon.com, bbbb77a7-1459-4c85-af82-cd7e0a773a21, RESELLER
 aps.amazon.com, e01babcc-1a26-4bf8-a4b4-551fa47b2e56, DIRECT
 aps.amazon.com, ea05d466-f785-4b9a-a030-6fdc6a39498f, RESELLER
+aps.amazon.com,ec4e8edf-c46b-44a1-bcab-17b3a4420b9a,RESELLER
 axonix.com, 57264, RESELLER
 axonix.com, 57264, RESELLER, bc385f2b4a87b721
 axonix.com,57264,RESELLER,bc385f2b4a87b721
@@ -281,6 +282,7 @@ conversantmedia.com,100346,RESELLER,03113cd04947736d
 conversantmedia.com,40881,RESELLER,03113cd04947736d
 conversantmedia.com,42037,DIRECT,03113cd04947736d
 copper6.com,764117,RESELLER
+copper6.com,764120,RESELLER
 criteo.com, B-060278, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-062041, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-062476, DIRECT, 9fac4a4a87c2a44f
@@ -342,6 +344,7 @@ freewheel.tv,1568036,RESELLER
 freewheel.tv,1568041,RESELLER
 freewheel.tv,1590601,RESELLER
 freewheel.tv,1590606,RESELLER
+freewheel.tv,536174-r-523319,RESELLER
 freewheel.tv,770449,DIRECT
 freewheel.tv,774673,RESELLER
 freewheel.tv,799921,RESELLER
@@ -975,6 +978,8 @@ sharethrough.com, a6a34444, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, aEDv2gnF, DIRECT, d53b998a7bd4ecd2
 sharethrough.com, nREOtldZ, DIRECT, d53b998a7bd4ecd2
 sharethrough.com,1udopj1s,RESELLER,d53b998a7bd4ecd2
+sharethrough.com,2079,RESELLER,060d053dcf45cbf3
+sharethrough.com,2079-ob,RESELLER,060d053dcf45cbf3
 sharethrough.com,23830661,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,249198ac,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,332baa08,RESELLER,d53b998a7bd4ecd2
@@ -1147,6 +1152,7 @@ sunmedia.tv, 852c0d87-cafc-4bba-a88c-f74cf18086b0, RESELLER, 24794F6
 synacor.com,82376,RESELLER,e108f11b2cdf7d5b
 taboola.com, 1859944, DIRECT, c228e6794e811952
 taboola.com, 1890547, DIRECT, c228e6794e811952
+taboola.com,1902513,DIRECT,c228e6794e811952
 teads.tv, 14025, DIRECT, 15a9c44f6d26cbe1
 teads.tv, 15715, DIRECT, 15a9c44f6d26cbe1
 teads.tv, 27924, DIRECT, 15a9c44f6d26cbe1
@@ -1169,9 +1175,11 @@ themediagrid.com, VIY354, RESELLER, 35d5010d7789b49d
 themediagrid.com,1a2oki,DIRECT,35d5010d7789b49d
 themediagrid.com,25xpu9,RESELLER,35d5010d7789b49d
 themediagrid.com,jvmwi7,DIRECT,35d5010d7789b49d
+themediagrid.com,nejfkt,RESELLER,9fac4a4a87c2a44f
 themediagrid.com,p19gfj,RESELLER,35d5010d7789b49d
 themediagrid.com,qdc97i,DIRECT,35d5010d7789b49d
 themediagrid.com,quzdr9,RESELLER,35d5010d7789b49d
+themediagrid.com,zg1dbn,RESELLER,9fac4a4a87c2a44f
 themediasense.com,1046,RESELLER
 thunder-monetize.com, 1947298216, RESELLER
 thunder-monetize.com,1252316774,RESELLER
