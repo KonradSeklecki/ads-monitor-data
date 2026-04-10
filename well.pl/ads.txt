@@ -39,7 +39,6 @@ adyoulike.com, 26524c3a380d80276b32a66fcb953922, RESELLER
 adyoulike.com, 639201a8e0f88c543a4eadc792fb1058, RESELLER
 adyoulike.com, 7463c359225e043c111036d7a29affa5, RESELLER
 adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER
-adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER, 4ad745ead2958bf7
 adyoulike.com, f1dfbb7f133fbdb25c96e7d85a5e628b, RESELLER
 ampliffy.com, amp00076, RESELLER
 amxrtb.com, 105199557, DIRECT
@@ -79,7 +78,6 @@ appnexus.com, 2579, RESELLER
 appnexus.com, 2928, RESELLER
 appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
 appnexus.com, 3457, DIRECT
-appnexus.com, 3457, DIRECT, f5ab79cb980f11d1
 appnexus.com, 3663, RESELLER, f5ab79cb980f11d1
 appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
@@ -96,7 +94,6 @@ aps.amazon.com, 93aec77c-f6d2-45bd-affc-a85ab5a72683, RESELLER
 aps.amazon.com, bbbb77a7-1459-4c85-af82-cd7e0a773a21, RESELLER
 aps.amazon.com, e01babcc-1a26-4bf8-a4b4-551fa47b2e56, DIRECT
 axonix.com, 57264, RESELLER
-axonix.com, 57264, RESELLER, bc385f2b4a87b721
 beachfront.com, 14804, RESELLER, e2541279e8e2ca4d
 betweendigital.com, 42666, RESELLER
 betweendigital.com, 44774, RESELLER
@@ -492,9 +489,7 @@ teads.tv, 27924, DIRECT, 15a9c44f6d26cbe1
 telaria.com, 4jdlm-4qsx9, RESELLER, 1a4e959a1b50034a
 telaria.com, cpu32-92xut, RESELLER, 1a4e959a1b50034a
 themediagrid.com, 1A2OKI, DIRECT, 35d5010d7789b49d
-themediagrid.com, 1A2OKI, DIRECT, 9fac4a4a87c2a44f
 themediagrid.com, 1MCYGZ, DIRECT, 35d5010d7789b49d
-themediagrid.com, 1MCYGZ, DIRECT, 9fac4a4a87c2a44f
 themediagrid.com, JTQKMP, RESELLER, 35d5010d7789b49d
 themediagrid.com, P19GFJ, DIRECT, 35d5010d7789b49d
 themediagrid.com, RYIDPE, RESELLER, 35d5010d7789b49d
@@ -521,7 +516,6 @@ video.unrulymedia.com, 1295892552, RESELLER
 video.unrulymedia.com, 2439829435, RESELLER
 video.unrulymedia.com, 2444764291, RESELLER
 video.unrulymedia.com, 2564526802, RESELLER
-video.unrulymedia.com, 2564526802, RESELLER, 6f752381ad5ec0e5
 video.unrulymedia.com, 266978658, RESELLER
 video.unrulymedia.com, 297618916, RESELLER
 video.unrulymedia.com, 5672421953199218469, RESELLER
