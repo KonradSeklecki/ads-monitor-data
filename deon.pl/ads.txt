@@ -1013,3 +1013,4 @@ sharethrough.com, 1175-OB, RESELLER, d53b998a7bd4ecd2
 freewheel.tv, 536103-r-524565, RESELLER
 madvertise.com, 7014, RESELLER
 pubmatic.com, 156695, RESELLER, 5d62403b186f2ace
+smartadserver.com, 1408, RESELLER, 060d053dcf45cbf3
