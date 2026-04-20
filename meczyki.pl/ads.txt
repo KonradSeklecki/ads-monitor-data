@@ -1775,3 +1775,4 @@ thunder-monetize.com, 1947298216, RESELLER
 ogury.com, ede8d6ba-5a3f-4dfa-85aa-8cfb3c42f970, RESELLER
 video.unrulymedia.com, 266978658, RESELLER
 sharethrough.com, 3554, RESELLER, d53b998a7bd4ecd2
+google.com, pub-1495393699279128, DIRECT, f08c47fec0942fa0
