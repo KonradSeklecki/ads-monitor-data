@@ -455,3 +455,10 @@ connectad.io, 20, DIRECT
 wpartner.pl, 364, DIRECT
 yoc.com, 5456, DIRECT
 waytogrow.eu, 3212894, DIRECT
+pubmatic.com, 156701, RESELLER, 5d62403b186f2ace
+lijit.com, 236441, RESELLER, fafdf38b16bf6b2b
+lijit.com, 236441-eb, RESELLER, fafdf38b16bf6b2b
+adquery.io, 234364678, DIRECT, adq-2388a0be94d354c3ef8933c74ef8dece
+motorik.io, 100463, RESELLER
+smaato.com, 1100056344, RESELLER, 07bcf65f187117b4
+smartadserver.com, 4926, RESELLER, 060d053dcf45cbf3
