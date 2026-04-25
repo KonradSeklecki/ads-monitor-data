@@ -652,7 +652,9 @@ telaria.com, 4jdlm-4qsx9, RESELLER, 1a4e959a1b50034a
 telaria.com, cpu32-92xut, RESELLER, 1a4e959a1b50034a
 thebrave.io, 1234585, RESELLER, c25b2154543746ac
 themediagrid.com, 1A2OKI, DIRECT, 35d5010d7789b49d
+themediagrid.com, 1A2OKI, DIRECT, 9fac4a4a87c2a44f
 themediagrid.com, 1MCYGZ, DIRECT, 35d5010d7789b49d
+themediagrid.com, 1MCYGZ, DIRECT, 9fac4a4a87c2a44f
 themediagrid.com, HLDOIR, DIRECT, 35d5010d7789b49d
 themediagrid.com, JTQKMP, RESELLER, 35d5010d7789b49d
 themediagrid.com, P19GFJ, DIRECT, 35d5010d7789b49d
