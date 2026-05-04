@@ -497,6 +497,8 @@ smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
 smaato.com, 1100056344, RESELLER, 07bcf65f187117b4
 smaato.com, 1100056795, RESELLER, 07bcf65f187117b4
 smaato.com, 1100059563, RESELLER, 07bcf65f187117b4
+mgid.com, 812553, DIRECT, d4c29acad76ce94f
+smaato.com, 1100056735, DIRECT, 07bcf65f187117b4
 smartadline.com, 90643844, DIRECT
 smartadserver.com, 1175, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 1175-OB, RESELLER, 060d053dcf45cbf3
