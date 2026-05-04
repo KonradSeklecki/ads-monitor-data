@@ -2491,3 +2491,70 @@ ogury.com, ede8d6ba-5a3f-4dfa-85aa-8cfb3c42f970, RESELLER
 #2026-04-03
 vidgyor.com, 22192, DIRECT
 sharethrough.com, 3554, RESELLER, d53b998a7bd4ecd2
+#2026-05-04
+appnexus.com, 13412, RESELLER
+google.com, pub-4983172728561290, RESELLER, f08c47fec0942fa0
+playstream.media, 2211, DIRECT
+appnexus.com, 13411, RESELLER
+selectmedia.asia, 23053611023, RESELLER
+appnexus.com, 13309, RESELLER
+adform.com, 3035, DIRECT, 9f5210a2f0999e32
+google.com, pub-8584156348842922, RESELLER, f08c47fec0942fa0
+groupm.com, 200, RESELLER
+google.com, pub-5862389829718358, RESELLER, f08c47fec0942fa0
+bidinfluence.com, 502511, RESELLER
+smartadserver.com, 2113-OB, RESELLER, 060d053dcf45cbf3
+adform.com, 3035, RESELLER, 9f5210a2f0999e32
+bidscube.com, 5000691, RESELLER, 6ecc87a1e0269723
+yoc.com, 5591, DIRECT
+decenterads.com, 500234, RESELLER
+gannett.com, 22703897216, RESELLER
+smartadline.com, 21378692, DIRECT
+aps.amazon.com, d4004b5f-4fb6-4be2-82ae-0e36b8f52c12, DIRECT
+smilewanted.com, 5962, RESELLER
+google.com, pub-2441454515104767, RESELLER, f08c47fec0942fa0
+google.com, pub-5157263156975427, RESELLER, f08c47fec0942fa0
+connectad.io, 328, RESELLER, 85ac85a30c93b3e5
+google.com, pub-2441454515104767, DIRECT, f08c47fec0942fa0
+vidoomy.com, 1777325, RESELLER
+adipolo.com, 22915330089, DIRECT
+betweendigital.com, 44937, RESELLER
+rubiconproject.com, 25512, RESELLER, 0bfd66d529a55807
+adipolosolutions.com, 22915330089, DIRECT
+admixer.com, 5a0e3544-8d64-495e-9042-ed450f205817, RESELLER
+smartadline.com, 22915330089, DIRECT
+adform.com, 3291, RESELLER, 9f5210a2f0999e32
+pmbmonetize.com, 22915330089, DIRECT
+sigma-media.com.pl, 60, DIRECT
+whitemediasolutions.com, 9990, DIRECT
+opamarketplace.com, 22915330089, DIRECT
+cmcmedia.pl, 7716062, DIRECT
+streamlyn.com, bsrvptr20293, DIRECT
+adipolo.com, 22703897216, RESELLER
+supply.colossusssp.com, 836, RESELLER, 6c5b49d96ec1b458
+google.com, pub-1714061154748628, RESELLER, f08c47fec0942fa0
+google.com, pub-8686615022940025, RESELLER, f08c47fec0942fa0
+vdo.ai, 4928, DIRECT
+atlas5.co, 4928, DIRECT
+adipolosolutions.com, 22652786701, RESELLER
+xapads.com, 145030, RESELLER
+walletcircle.co, 4928, DIRECT
+pmbmonetize.com, 22703897216, RESELLER
+mobupps.com, c74d97b01eae257e44aa9d5bade97baf33148, RESELLER
+google.com, pub-7094677798399606, RESELLER, f08c47fec0942fa0
+smartadline.com, 22703897216, RESELLER
+video.unrulymedia.com, 926913262, RESELLER
+google.com, pub-2403018226404213, RESELLER, f08c47fec0942fa0
+opamarketplace.com, 22703897216, RESELLER
+sonobi.com, 4dd284a06a, RESELLER, d1a215d9eb5aee9e
+aps.amazon.com, b3d50ad3-eca1-4091-be72-de4a8bc67a3d, DIRECT
+screencore.io, 292, DIRECT
+google.com, pub-6151720204273327, RESELLER, f08c47fec0942fa0
+bidfuse.com, bf-6288, DIRECT
+adyoulike.com, c1cb20fa2bbc39a8f2ec564ac0c157f7, DIRECT
+google.com, pub-9135355251665930, RESELLER, f08c47fec0942fa0
+criteo.com, B-060253, RESELLER, 9fac4a4a87c2a44f
+anyclip.com, 0016M00002Wx09BQAR, RESELLER
+adform.com, 3030, RESELLER
+video.unrulymedia.com, 270404831, RESELLER
+adsolut.in, 17081, DIRECT
