@@ -85,6 +85,7 @@ appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
 appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
 appnexus.com, 1371, RESELLER, f5ab79cb980f11d1
 appnexus.com, 14077, RESELLER
+appnexus.com, 15816, RESELLER, f5ab79cb980f11d1
 appnexus.com, 15825, RESELLER, f5ab79cb980f11d1
 appnexus.com, 15941, RESELLER
 appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
@@ -173,6 +174,7 @@ freewheel.tv, 24377, RESELLER
 freewheel.tv, 435713, RESELLER
 freewheel.tv, 435777, RESELLER
 freewheel.tv, 536103-r-524565, RESELLER
+freewheel.tv, sg1258478, RESELLER
 google.com, pub-0796790890307838, RESELLER, f08c47fec0942fa0
 google.com, pub-1067374679252537, RESELLER, f08c47fec0942fa0
 google.com, pub-1490961421801363, RESELLER, f08c47fec0942fa0
@@ -357,6 +359,7 @@ outbrain.com, 00a670afb7f205a88f4f78ec90b4fa7c16, RESELLER
 outbrain.com, 00fe7cdd9f63b40ea93c0c4ae346bf4541, RESELLER
 playstream.media, 2294, DIRECT
 playstream.media, 2558, DIRECT
+publicismedia.de, 150526, RESELLER
 publiffy.com, pub00076, RESELLER
 pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
 pubmatic.com, 154037, RESELLER
@@ -416,6 +419,7 @@ pubmatic.com, 162319, DIRECT, 5d62403b186f2ace
 pubmatic.com, 162539, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162700, DIRECT, 5d62403b186f2ace
 pubmatic.com, 162747, DIRECT, 5d62403b186f2ace
+pubmatic.com, 166421, RESELLER, 5d62403b186f2ace
 pubmatic.com, 55990, RESELLER, 5d62403b186f2ace
 pubmatic.com, 62652, DIRECT
 pubmatic.com, 62652, DIRECT, 5d62403b186f2ace
