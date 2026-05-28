@@ -463,3 +463,22 @@ adquery.io, 234364678, DIRECT, adq-2388a0be94d354c3ef8933c74ef8dece
 motorik.io, 100463, RESELLER
 smaato.com, 1100056344, RESELLER, 07bcf65f187117b4
 smartadserver.com, 4926, RESELLER, 060d053dcf45cbf3
+improvedigital.com, 2650, RESELLER
+admanmedia.com, 1063, RESELLER
+smartadserver.com, 4998, RESELLER, 060d053dcf45cbf3
+eskimi.com, 2020001164, RESELLER
+appnexus.com, 15670, RESELLER, f5ab79cb980f11d1
+appnexus.com, 15670, RESELLER
+rubiconproject.com, 26250, RESELLER, 0bfd66d529a55807
+pubmatic.com, 162270, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 498216989, RESELLER
+lijit.com, 502284, RESELLER, fafdf38b16bf6b2b
+onetag.com, 8c90176af2e65c8, RESELLER
+smartadserver.com, 4998, RESELLER
+risecodes.com, 680b33a1fc57d10001c035e1, RESELLER
+video.unrulymedia.com, 586616193, RESELLER
+pubmatic.com, 160295, RESELLER, 5d62403b186f2ace
+xandr.com, 14082, RESELLER
+rubiconproject.com, 23876, RESELLER, 0bfd66d529a55807
+sharethrough.com, 5926d422, RESELLER, d53b998a7bd4ecd2
+zetaglobal.net, 716, RESELLER
