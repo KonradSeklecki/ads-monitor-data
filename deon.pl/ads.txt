@@ -1014,3 +1014,7 @@ freewheel.tv, 536103-r-524565, RESELLER
 madvertise.com, 7014, RESELLER
 pubmatic.com, 156695, RESELLER, 5d62403b186f2ace
 smartadserver.com, 1408, RESELLER, 060d053dcf45cbf3
+appnexus.com, 15816, RESELLER, f5ab79cb980f11d1
+freewheel.tv, sg1258478, RESELLER
+publicismedia.de, 150526, RESELLER
+pubmatic.com, 166421, RESELLER, 5d62403b186f2ace
