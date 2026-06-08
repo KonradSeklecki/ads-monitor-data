@@ -1,69 +1,16 @@
 OWNERDOMAIN=ptwp.pl
 
-/*<![CDATA[*/
-/*]]>*/
 152media.info, 152M330, DIRECT
 33across.com, 0013300001hSPhhAAG, DIRECT, bbea06d9c4d2853c
 33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
 33across.com, 0015a00002oUk4aAAC, RESELLER, bbea06d9c4d2853c
 33across.com, 0015a00003HljHyAAJ, RESELLER
 33across.com, 001Pg00000GWjtfIAD, RESELLER, bbea06d9c4d2853c
-<!DOCTYPE html>
-</a>
-</a> </span> </label> <div class="input-icon"> <input type="password" id="password" name="password" class="form-control" placeholder="Your password" tabindex="2" required /> <span class="input-icon-addon"> <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-lock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M5 13a2 2 0 0 1 2 -2h10a2 2 0 0 1 2 2v6a2 2 0 0 1 -2 2h-10a2 2 0 0 1 -2 -2v-6z"></path><path d="M11 16a1 1 0 1 0 2 0a1 1 0 0 0 -2 0"></path><path d="M8 11v-4a4 4 0 1 1 8 0v4"></path></svg> </span> </div> </div> <div class="mb-2"> <label class="form-check"> <input type="checkbox" class="form-check-input" id="rememberMe" name="rememberMe" value="1" tabindex="3" /> <span class="form-check-label">
-</body>
-</button> </div> <div id="e816b5adabd070447d80d0a1650043faf9cf5bb4" class="login-form-control d-none">ouDcRKiFu7Hb4CKf7qz3nXrTpCfnagNreeqIBn8Q</div> </form>                    </div>
-</div>
-</h2> <div class="action-result"> </div> <form action="https://panel.waytogrow.com/login" method="post" id="login-form" class="p-3"> <div class="mb-3"> <label class="form-label" for="email">
-</html>
-</label> <div class="input-icon"> <input type="text" id="email" name="email" class="form-control" placeholder="Your email address" tabindex="1" required autofocus /> <span class="input-icon-addon"> <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-at" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M12 12m-4 0a4 4 0 1 0 8 0a4 4 0 1 0 -8 0"></path><path d="M16 12v1.5a2.5 2.5 0 0 0 5 0v-1.5a9 9 0 1 0 -5.5 8.28"></path></svg> </span> </div> </div> <div class="mb-3"> <label class="form-label" for="password">
-</script>
-</script>    </head>
-</span>
-</span> </label> </div> <div class="form-footer"> <button type="submit" class="btn btn-primary btn-submit w-100" tabindex="4">
-<a class="dropdown-item" href="/language/en">
-<a class="dropdown-item" href="/language/pl">
-<a class="me-3 text-muted text-decoration-none" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-<a href="/" class="navbar-brand navbar-brand-autodark">
-<body>
-<div class="card card-md">
-<div class="card-body">
-<div class="container container-tight py-4">
-<div class="dropdown-menu">
-<div class="page page-center login">
-<div class="text-center mb-4">
-<div class="text-center text-muted mt-3">
-<h2 class="h2 text-center fw-normal mb-md-4">
-<head>
-<html lang="pl" dir="ltr">
-<img src="/common/img/logo.svg" width="200" height="50" alt="Waytogrow" />
-<link nonce="5HdKGvWKxF8Cqc1eSyRNM9a4mQXGHLwW" rel="stylesheet" type="text/css" href="/css/app.main.7e9f94dba2.compiled.css" />
-<link rel="canonical" href="https://panel.waytogrow.com/login" />
-<link rel="shortcut icon" href="/common/img/favicon.png" />
-<meta charset="UTF-8">
-<meta name="robots" content="noindex" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<script nonce="5HdKGvWKxF8Cqc1eSyRNM9a4mQXGHLwW">
-<script src="/js/app.main.9af441ba1f.compiled.js" nonce="5HdKGvWKxF8Cqc1eSyRNM9a4mQXGHLwW"></script>
-<script src="https://www.googletagmanager.com/gtag/js?id=G-LGSFHBJYX4" nonce="5HdKGvWKxF8Cqc1eSyRNM9a4mQXGHLwW" async></script> <script nonce="5HdKGvWKxF8Cqc1eSyRNM9a4mQXGHLwW">
-<span class="form-label-description"> <a href="https://panel.waytogrow.com/login/password/reset-request">
-<span>
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-world me-1 text-primary" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M3 12a9 9 0 1 0 18 0a9 9 0 0 0 -18 0"></path><path d="M3.6 9h16.8"></path><path d="M3.6 15h16.8"></path><path d="M11.5 3a17 17 0 0 0 0 18"></path><path d="M12.5 3a17 17 0 0 1 0 18"></path></svg>                        <span class="d-inline-block">
-<title>Log in | Waytogrow Panel</title>
 Appnexus.com, 1371, RESELLER, f5ab79cb980f11d1
 Contextweb.com, 562794, RESELLER,89ff185a4c4e857c
-E-mail address
-English                                    </span>
-English                                </span>
-I forgot my password
-Log in
-Log in to your account
 Media.net, 8CUTQ396X, DIRECT
-Password
-Polski                                </span>
 Pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
 Pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
-Remember me
 Rtbdemand.com, 23064348074, RESELLER
 Video.unrulymedia.com, 586616193, RESELLER
 Xapads.com, 145030, RESELLER
@@ -130,8 +77,6 @@ aol.com, 27093, RESELLER
 aol.com, 46658, RESELLER
 aol.com, 57992, RESELLER, e1a5b5b6e3255540
 aolcloud.net, 4687, RESELLER
-app.commonLogin.index();
-app.main.init({"baseUrl":"https:\/\/panel.waytogrow.com","language":"en","messages":{"site":{"Wyst\u0105pi\u0142 b\u0142\u0105d, spr\u00f3buj ponownie za chwil\u0119.":"An error has occurred. Please try again later."}}});
 appads.in, 107606, RESELLER
 appnexus.com, 10040, RESELLER
 appnexus.com, 1019, RESELLER, f5ab79cb980f11d1
@@ -250,7 +195,6 @@ freewheel.tv, 872257, RESELLER
 freewheel.tv, 894193, RESELLER
 freewheel.tv, 894193-524565, RESELLER
 freewheel.tv, sg1258265, RESELLER
-function gtag(){dataLayer.push(arguments);}
 google.com, pub-0796790890307838, RESELLER, f08c47fec0942fa0
 google.com, pub-1490961421801363, RESELLER, f08c47fec0942fa0
 google.com, pub-1546102924523412, RESELLER, f08c47fec0942fa0
@@ -290,8 +234,6 @@ google.com, pub-9115524111147081, RESELLER, f08c47fec0942fa0
 google.com, pub-9328633604439863, RESELLER, f08c47fec0942fa0
 google.com, pub-9404419171574902, RESELLER, f08c47fec0942fa0
 groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a
-gtag('config', 'G-LGSFHBJYX4');
-gtag('js', new Date());
 gumgum.com, 11645, RESELLER, ffdef49475d318a9
 gumgum.com, 14141, RESELLER, ffdef49475d318a9
 gumgum.com, 15563, RESELLER, ffdef49475d318a9
@@ -344,7 +286,6 @@ insticator.com, 4ec3ed85-2830-4174-9f7f-f545620598b9, RESELLER, b3511ffcafb23a32
 insticator.com,15188195-e4cc-40b1-98f1-d6390cc63cbb,DIRECT,b3511ffcafb23a32
 insticator.com,15188195-e4cc-40b1-98f1-d6390cc63cbb,RESELLER,b3511ffcafb23a32
 iqzone.com, IQ137, RESELLER
-jQuery(function($) {
 kargo.com, 8824, RESELLER
 krushmedia.com, AJxF6R572a9M6CaTvK, RESELLER
 lijit.com, 224984, DIRECT, fafdf38b16bf6b2b
@@ -711,7 +652,9 @@ telaria.com, 4jdlm-4qsx9, RESELLER, 1a4e959a1b50034a
 telaria.com, cpu32-92xut, RESELLER, 1a4e959a1b50034a
 thebrave.io, 1234585, RESELLER, c25b2154543746ac
 themediagrid.com, 1A2OKI, DIRECT, 35d5010d7789b49d
+themediagrid.com, 1A2OKI, DIRECT, 9fac4a4a87c2a44f
 themediagrid.com, 1MCYGZ, DIRECT, 35d5010d7789b49d
+themediagrid.com, 1MCYGZ, DIRECT, 9fac4a4a87c2a44f
 themediagrid.com, HLDOIR, DIRECT, 35d5010d7789b49d
 themediagrid.com, JTQKMP, RESELLER, 35d5010d7789b49d
 themediagrid.com, P19GFJ, DIRECT, 35d5010d7789b49d
@@ -763,7 +706,6 @@ videoheroes.tv, 212716, RESELLER, 064bc410192443d8
 vidoomy.com, 60691, DIRECT
 visiblemeasures.com, 1052, RESELLER
 waytogrow.eu, 3108909, DIRECT
-window.dataLayer = window.dataLayer || [];
 wpartner.pl, 22444050393, DIRECT
 wpartner.pl, 364, DIRECT
 xad.com, 240, RESELLER, 81cbf0a75a5e0e9a
@@ -797,6 +739,5 @@ yoc.com, 5879, DIRECT
 zeta.com, 757, RESELLER
 zetaglobal.net, 620, DIRECT
 zetaglobal.net, 891, RESELLER
-});
 
 #CONTACT=emil.szandula@ptwp.pl
