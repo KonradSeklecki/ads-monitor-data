@@ -602,3 +602,4 @@ openx.com, 559913615, RESELLER, 6a698e2ec38604c6
 sharethrough.com, 332baa08, RESELLER, d53b998a7bd4ecd2
 onetag.com, 5cca11704094eb8, RESELLER
 adyoulike.com, bcf6c423bc90ec180005086dd9935a1b, RESELLER
+google.com, pub-4910050017906143, RESELLER, f08c47fec0942fa0
