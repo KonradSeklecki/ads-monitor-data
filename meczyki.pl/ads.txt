@@ -1879,3 +1879,4 @@ triplelift.com, 14636, DIRECT, 6c33edb13117fd86
 triplelift.com, 14636-EB, DIRECT, 6c33edb13117fd86
 sharethrough.com, UvcAx8IL, RESELLER, d53b998a7bd4ecd2
 flashb.id, 6cf46500-30a7-49e2-aa2a-769fab9e49a9, DIRECT
+google.com, pub-1495393699279128, DIRECT, f08c47fec0942fa0
