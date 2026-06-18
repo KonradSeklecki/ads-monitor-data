@@ -561,6 +561,7 @@ nativo.com,5848,RESELLER,59521ca7cc5e9fee
 netpoint-media.de, np-7871, RESELLER
 nextmillennium.io,16378,RESELLER,65bd090fa4a1e3d6
 nobid.io,50603,RESELLER
+ogury.com, 872a43cc-b37a-4a5b-abca-93795451435e, RESELLER
 ogury.com, 9b3557e1-59f8-4656-849b-313b81c11ce6, RESELLER
 ogury.com, ede8d6ba-5a3f-4dfa-85aa-8cfb3c42f970, RESELLER
 ogury.com,e84fb673-2e83-4e7f-b51f-4dfce94eb0d9,RESELLER
