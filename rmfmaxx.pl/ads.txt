@@ -2934,3 +2934,9 @@ invamia.com, ivm-6242, DIRECT
 bidfuse.com, bf-6242, DIRECT #bf
 arabella.ag, abl-6242, DIRECT
 adtech-digital.com, adt6242, DIRECT
+ogury.com, 872a43cc-b37a-4a5b-abca-93795451435e, RESELLER
+pubmatic.com, 163238, RESELLER, 5d62403b186f2ace
+smartadserver.com, 4537, RESELLER, 060d053dcf45cbf3
+rubiconproject.com, 25198, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 533898005, RESELLER
+thebrave.io, 1234746, RESELLER, c25b2154543746ac
