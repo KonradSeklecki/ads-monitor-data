@@ -3137,3 +3137,9 @@ rhythmone.com, 1683053691, RESELLER, a670c89d4a324e47
 indexexchange.com, 182257, RESELLER
 video.unrulymedia.com, 146647607, RESELLER
 richaudience.com, 4AoWPWXbVu, RESELLER
+ogury.com, 872a43cc-b37a-4a5b-abca-93795451435e, RESELLER
+pubmatic.com, 163238, RESELLER, 5d62403b186f2ace
+smartadserver.com, 4537, RESELLER, 060d053dcf45cbf3
+rubiconproject.com, 25198, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 533898005, RESELLER
+thebrave.io, 1234746, RESELLER, c25b2154543746ac
