@@ -1292,7 +1292,6 @@ onlinemediasolutions.com, 20580, DIRECT, b3868b187e4b6403
 ogury.com, bf549e20-0057-41a6-99bd-6de884ffdcd9, RESELLER
 risecodes.com, 68dbedb40c6f16000154cb4c, DIRECT
 admanmedia.com, 812, DIRECT
-rhythmone.com, 2439829435, RESELLER, a670c89d4a324e47
 admagnetix.io, 202021, DIRECT
 xandr.com, 11429, DIRECT, f5ab79cb980f11d1
 onomagic.com, 205801, DIRECT
@@ -1301,7 +1300,6 @@ audienciad.com, 205802, DIRECT
 yieldmo.com, 2757543169808605705, RESELLER
 smartadserver.com, 4253, RESELLER
 xandr.com, 12701, DIRECT, f5ab79cb980f11d1
-appnexus.com, 11470, RESELLER
 smartadserver.com, 4537, RESELLER, 060d053dcf45cbf3
 video.unrulymedia.com, 533898005, RESELLER
 thebrave.io, 1234746, RESELLER, c25b2154543746ac
@@ -1351,29 +1349,9 @@ rubiconproject.com, 27408, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 27410, DIRECT, 0bfd66d529a55807
 voisetech.com, 1127, DIRECT, 9009ef0379162448
 google.com, pub-1682595508078257, RESELLER, f08c47fec0942fa0
-openx.com, 545702544, RESELLER, 6a698e2ec38604c6
-pubmatic.com, 159775, RESELLER, 5d62403b186f2ace
-themediagrid.com, QDC97I, DIRECT, 35d5010d7789b49d
-rubiconproject.com, 23564, RESELLER, 0bfd66d529a55807
-onetag.com, 79c9089f60042c0, DIRECT
 yandex.com, 305563103, DIRECT
-sovrn.com, 331050, DIRECT, fafdf38b16bf6b2b
-media.net, 8CUIUMTP7, DIRECT
-sharethrough.com, izM1hGJl, DIRECT, d53b998a7bd4ecd3
-e-planning.net, 29459e615aaa9065, DIRECT, c1ba615865ed87b2
-33across.com, 0010b00002VYZoUAAX, DIRECT, bbea06d9c4d2853c
-adtelligent.com, 500592, DIRECT
-sonobi.com, 0b24fdfc82, DIRECT, d1a215d9eb5aee9e
-mgid.com, 130961, DIRECT, d4c29acad76ce94f
-conversantmedia.com, 42037, DIRECT, 03113cd04947736d
 smartyads.com, 20133, DIRECT, fd2bde0ff2e62c5d
-smilewanted.com, 5329, RESELLER
 revcontent.com, 45858, DIRECT
-nobid.io, 120605, DIRECT
-nextmillennium.io, 17000, DIRECT, 65bd090fa4a1e3d6
-onlinemediasolutions.com, 20580, DIRECT, b3868b187e4b6403
-onomagic.com, 205801, DIRECT
-ogury.com, bf549e20-0057-41a6-99bd-6de884ffdcd9, RESELLER
 appnexus.com, 11470, RESELLER, f5ab79cb980f11d1
 google.com, pub-3970277535528613, RESELLER, f08c47fec0942fa0
 google.com, pub-7383171830614216, RESELLER, f08c47fec0942fa0
@@ -1610,7 +1588,6 @@ adform.com, 1635, DIRECT
 rtbhouse.com, 20Kd5eBlCVDog1190trK, DIRECT
 limpid.tv, 920827, DIRECT
 smartadserver.com, 4483, RESELLER
-smartadserver.com, 4253, RESELLER
 rubiconproject.com, 25722, RESELLER, 0bfd66d529a55807
 pubmatic.com, 163517, RESELLER, 5d62403b186f2ace
 onetag.com, 7b561459c997848, RESELLER
@@ -1620,7 +1597,6 @@ indexexchange.com, 197494, RESELLER, 50b1c356f2c5c8fc
 getmediamx.com, 1220827, DIRECT
 rubiconproject.com, 24364, RESELLER, 0bfd66d529a55807
 openx.com, 537153209, RESELLER, 6a698e2ec38604c6
-amxrtb.com, 105199514, RESELLER
 pubmatic.com, 161332, RESELLER, 5d62403b186f2ace
 lijit.com, 374814-eb, RESELLER, fafdf38b16bf6b2b
 lijit.com, 374814, RESELLER, fafdf38b16bf6b2b
@@ -2751,7 +2727,6 @@ sharethrough.com, 332baa08, RESELLER, d53b998a7bd4ecd2
 onetag.com, 5cca11704094eb8, RESELLER
 adyoulike.com, bcf6c423bc90ec180005086dd9935a1b, RESELLER, 4ad745ead2958bf7
 risecodes.com, 65b9125633dab2000102902c, RESELLER
-xandr.com, 14082, RESELLER
 rubiconproject.com, 23876, RESELLER, 0bfd66d529a55807
 onetag.com, 69f48c2160c8113, RESELLER
 sharethrough.com, 5926d422, RESELLER, d53b998a7bd4ecd2
@@ -3279,6 +3254,9 @@ sharethrough.com, 3554, RESELLER, d53b998a7bd4ecd2
 thunder-monetize.com, 1947298216, RESELLER
 sharethrough.com, 1175, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 1175-OB, RESELLER, d53b998a7bd4ecd2
+pubmatic.com, 163238, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 25198, RESELLER, 0bfd66d529a55807
+ogury.com, 872a43cc-b37a-4a5b-abca-93795451435e, RESELLER
 video.unrulymedia.com, 270404831, RESELLER
 video.unrulymedia.com, 498216989, RESELLER
 video.unrulymedia.com, 586616193, RESELLER
