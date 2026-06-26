@@ -3034,3 +3034,4 @@ indexexchange.com, 192311, RESELLER
 yahoo.com, 56860, RESELLER, e1a5b5b6e3255540
 nativo.com, 5677, DIRECT
 yieldmo.com, 2754490424016969782, RESELLER
+google.com, pub-9219423322857708, RESELLER, f08c47fec0942fa0
