@@ -1,4 +1,3 @@
-
 # direct and programmatic deals: marcin.pyra@rmf.pl 
 google.com, pub-9098974920563882, direct, f08c47fec0942fa0
 google.com, pub-3268638132077067, reseller, f08c47fec0942fa0
@@ -2878,7 +2877,7 @@ rubiconproject.com, 22656 , RESELLER, 0bfd66d529a55807
 inmobi.com, 8af6323ce16b4717b930742b6c9911cd, RESELLER, 83e75a7ae333ca9d
 pubmatic.com, 159625, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160851, RESELLER, 5d62403b186f2ace
-﻿﻿pubmatic.com, 166164, RESELLER, 5d62403b186f2ace
+??pubmatic.com, 166164, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161193, RESELLER, 5d62403b186f2ace
 appnexus.com, 12700, RESELLER, f5ab79cb980f11d1
 smartadserver.com, 3356, RESELLER, 060d053dcf45cbf3
@@ -3308,3 +3307,4 @@ amxrtb.com, 105199704, DIRECT
 Adsolut.in, 17081, DIRECT
 playstream.media, 2211, DIRECT
 videoffy.com, vid01217, DIRECT
+google.com, pub-9219423322857708, RESELLER, f08c47fec0942fa0 
