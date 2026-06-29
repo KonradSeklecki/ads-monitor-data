@@ -2819,6 +2819,7 @@ zmaticoo.com,5135004,RESELLER
 pubeasy.io,110568,RESELLER
 copper6.com,764117,RESELLER
 inmobi.com,1600f8a1e46a48ff981f3ecec32c8f7e,DIRECT,83e75a7ae333ca9d
+inmobi.com,fecded26f00c4ed1b8df3b9e22d9ced8,DIRECT,83e75a7ae333ca9d
 rubiconproject.com,20744,RESELLER,0bfd66d529a55807
 pubmatic.com,159035,RESELLER,5d62403b186f2ace
 pubmatic.com,160974,RESELLER,5d62403b186f2ace
