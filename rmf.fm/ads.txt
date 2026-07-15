@@ -1,4 +1,6 @@
-# direct and programmatic deals: marcin.pyra@rmf.pl 
+# direct and programmatic deals: marcin.pyra@rmf.pl
+OWNERDOMAIN=gruparmf.pl
+MANAGERDOMAIN=waytogrow.eu
 google.com, pub-9098974920563882, direct, f08c47fec0942fa0
 google.com, pub-3268638132077067, reseller, f08c47fec0942fa0
 google.com, pub-1757459425567081, direct, f08c47fec0942fa0
