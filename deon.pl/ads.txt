@@ -1018,3 +1018,22 @@ appnexus.com, 15816, RESELLER, f5ab79cb980f11d1
 freewheel.tv, sg1258478, RESELLER
 publicismedia.de, 150526, RESELLER
 pubmatic.com, 166421, RESELLER, 5d62403b186f2ace
+improvedigital.com, 2650, RESELLER
+admanmedia.com, 1063, RESELLER
+smartadserver.com, 4998, RESELLER, 060d053dcf45cbf3
+appnexus.com, 15670, RESELLER, f5ab79cb980f11d1
+eskimi.com, 2020001164, RESELLER
+appnexus.com, 15670, RESELLER
+rubiconproject.com, 26250, RESELLER, 0bfd66d529a55807
+pubmatic.com, 162270, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 498216989, RESELLER
+lijit.com, 502284, RESELLER, fafdf38b16bf6b2b
+onetag.com, 8c90176af2e65c8, RESELLER
+smartadserver.com, 4998, RESELLER
+risecodes.com, 680b33a1fc57d10001c035e1, RESELLER
+video.unrulymedia.com, 586616193, RESELLER
+pubmatic.com, 160295, RESELLER, 5d62403b186f2ace
+xandr.com, 14082, RESELLER
+rubiconproject.com, 23876, RESELLER, 0bfd66d529a55807
+sharethrough.com, 5926d422, RESELLER, d53b998a7bd4ecd2
+zetaglobal.net, 716, RESELLER
