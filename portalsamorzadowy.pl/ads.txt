@@ -1009,6 +1009,7 @@ rtbdemand.com, 23110629672, RESELLER
 rtbhouse.com, 20Kd5eBlCVDog1190trK, DIRECT
 rtbhouse.com, DPvmdEIcN6xczqVEVpOV, DIRECT
 rtbhouse.com, arBdS5Zp89j0rWkmwMY0, RESELLER
+rtbhouse.com, bFBsGDjLVEO3ojLpg2D7, DIRECT
 rtbhouse.com, da39a3ee5e6b4b0d, RESELLER
 rubiconproject.com, 10968, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
