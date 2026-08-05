@@ -41,6 +41,7 @@ adform.com, 2742, RESELLER, 9f5210a2f0999e32
 adform.com, 281, RESELLER
 adform.com, 2852, RESELLER
 adform.com, 2865, RESELLER
+adform.com, 2865, RESELLER, 9f5210a2f0999e32
 adform.com, 2919, RESELLER, 9f5210a2f0999e32
 adform.com, 3001, RESELLER
 adform.com, 3016, RESELLER
@@ -213,6 +214,7 @@ appnexus.com, 3663, RESELLER, f5ab79cb980f11d1
 appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
 appnexus.com, 3783, RESELLER, f5ab79cb980f11d1
 appnexus.com, 3911, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3927, DIRECT, f5ab79cb980f11d1
 appnexus.com, 4052, RESELLER
 appnexus.com, 6849, RESELLER, f5ab79cb980f11d1
 appnexus.com, 7165, RESELLER
@@ -249,6 +251,7 @@ aps.amazon.com, ea05d466-f785-4b9a-a030-6fdc6a39498f, RESELLER
 atasdigital.com, 504973, RESELLER
 atlas5.co, 4432, DIRECT
 atlas5.co, 4928, DIRECT
+audienzz.com, np-7871, RESELLER
 axonix.com, 56805, RESELLER, bc385f2b4a87b721
 axonix.com, 57264, RESELLER
 axonix.com, 57264, RESELLER, bc385f2b4a87b721
@@ -396,6 +399,7 @@ freewheel.tv, 894193-524565, RESELLER
 freewheel.tv, sg1258265, RESELLER
 freewheel.tv, sg1258478, RESELLER
 gamaigroup.com, 320201, RESELLER
+gamoshi.io, 267-b6491, DIRECT, 20e30b2ae1f670f2
 gannett.com, 22675194701, DIRECT
 gannett.com, 22703897216, RESELLER
 gannett.com, 23033711203, DIRECT
@@ -605,6 +609,7 @@ inmobi.com, a985e39014a94721a8e97c929d32ef9d, RESELLER, 83e75a7ae333ca9d
 inmobi.com, b01aa06531c543d8a5fb9982f60afb00, RESELLER, 83e75a7ae333ca9d
 inmobi.com, b8f8653796e642c89db5dabc6f7ea4a4, RESELLER, 83e75a7ae333ca9d
 inmobi.com, ba5fd3fb82c5412989b23c3eec71baf7, RESELLER, 83e75a7ae333ca9d
+inmobi.com, c2391dc8a51e420480044992fe6dc4d7, RESELLER, 83e75a7ae333ca9d
 inmobi.com, e98f0d119adf44788d60132b6e20fc5d, RESELLER, 83e75a7ae333ca9d
 inmobi.com, eea6e7d8efb24f40999600e94b0ff1e6, RESELLER, 83e75a7ae333ca9d
 inmobi.com, ef083d721beb4c0f8776ced01e262c03, RESELLER, 83e75a7ae333ca9d
@@ -679,6 +684,7 @@ media.net, 8CUIUMTP7, DIRECT
 media.net, 8CUJ8C82U, RESELLER
 media.net, 8CUQ6928Q, RESELLER
 media.net, 8CUTQ396X, DIRECT
+media.net, 8CUTQ396X, DIRECT, 818f58666cabc936
 media.net, 8CUZ1MK22, RESELLER
 media.net, 8cub1wh75, RESELLER
 mediago.io, 045ac24b888bcf59a09731e7f0f2084f, RESELLER
@@ -733,6 +739,7 @@ onetag.com, 7a4244b2979db22-OB, RESELLER
 onetag.com, 7b5a139b7412900, RESELLER
 onetag.com, 7b5a139b7412900-OB, RESELLER
 onetag.com, 7cd9d7c7c13ff36, DIRECT
+onetag.com, 7cd9d7c7c13ff36, RESELLER
 onetag.com, 7d9f8f714fc7866, DIRECT
 onetag.com, 7d9f8f714fc7866-OB, DIRECT
 onetag.com, 7f5d22b0006ab5a, RESELLER
@@ -922,6 +929,7 @@ pubmatic.com, 162319, DIRECT, 5d62403b186f2ace
 pubmatic.com, 162319, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162392, DIRECT
 pubmatic.com, 162539, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162700, DIRECT, 5d62403b186f2ace
 pubmatic.com, 162747, DIRECT, 5d62403b186f2ace
 pubmatic.com, 162817, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162902, RESELLER, 5d62403b186f2ace
@@ -1086,6 +1094,7 @@ sharethrough.com, 1udopJ1S, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 332baa08, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 3554, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 3920, RESELLER, 060d053dcf45cbf3
+sharethrough.com, 4577, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 5926d422, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 6qlnf8SY, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 7144eb80, RESELLER, d53b998a7bd4ecd2
@@ -1129,6 +1138,7 @@ smaato.com, 1100055901, RESELLER, 07bcf65f187117b4
 smaato.com, 1100056344, RESELLER, 07bcf65f187117b4
 smaato.com, 1100056795, RESELLER, 07bcf65f187117b4
 smaato.com, 1100058165, RESELLER, 07bcf65f187117b4
+smaato.com, 1100059563, RESELLER, 07bcf65f187117b4
 smartadline.com, 21378692, DIRECT
 smartadline.com, 21962330998, DIRECT
 smartadline.com, 22703897216, RESELLER
@@ -1299,6 +1309,7 @@ themediagrid.com, Q6VXLE, DIRECT, 35d5010d7789b49d
 themediagrid.com, QDC97I, DIRECT, 35d5010d7789b49d
 themediagrid.com, RYIDPE, RESELLER, 35d5010d7789b49d
 themediagrid.com, VIY354, RESELLER, 35d5010d7789b49d
+themediagrid.com, YZ2I83, DIRECT, 35d5010d7789b49d
 themediagrid.com, ZG1DBN, RESELLER, 35d5010d7789b49d
 thisisdax.com, 5329, RESELLER
 thunder-monetize.com, 1947298216, RESELLER
@@ -1416,6 +1427,7 @@ xandr.com, 1199, RESELLER
 xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
 xandr.com, 16426, RESELLER
+xandr.com, 3480, DIRECT, f5ab79cb980f11d1
 xandr.com, 3927, DIRECT, f5ab79cb980f11d1
 xandr.com, 4009, DIRECT, f5ab79cb980f11d1
 xapads.com, 145030, RESELLER
