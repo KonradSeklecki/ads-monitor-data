@@ -675,6 +675,7 @@ appnexus.com,9538,RESELLER,f5ab79cb980f11d1
 appnexus.com,9565,DIRECT,f5ab79cb980f11d1
 appnexus.com,9684,RESELLER,f5ab79cb980f11d1
 appnexus.com,9724,DIRECT
+aps.amazon.com,0ffe48a5-d004-4fb8-b151-44b10f1cba17,DIRECT
 aps.amazon.com,1b6b6ee4-305f-4ae1-8439-8b136c9cdf6e,DIRECT
 aps.amazon.com,3965,RESELLER
 aps.amazon.com,5d8ed25e-57cc-441a-b62a-127b34faae4e,DIRECT
@@ -703,6 +704,7 @@ biddo.net,bdc-6814,DIRECT
 bidfuse.com,bf-6288,DIRECT
 bidfuse.com,bf-6814,DIRECT
 bidfuse.com,bfg062220260317,DIRECT
+bidline.net,550e8400,RESELLER
 bidinfluence.com,502511,RESELLER
 bidmatic.io,b-b54fe,DIRECT
 bidmatic.io,b-bcf28,RESELLER
@@ -945,6 +947,7 @@ indexexchange.com,196713,RESELLER,50b1c356f2c5c8fc
 indexexchange.com,197200,RESELLER,50b1c356f2c5c8fc
 indexexchange.com,197617,RESELLER,50b1c356f2c5c8fc
 inmobi.com,155796dfff86494e9b375346a748e8eb,RESELLER,83e75a7ae333ca9d
+inmobi.com,19298a7a15ad4d9f9ce3f86a7b54e916,RESELLER,83e75a7ae333ca9d
 inmobi.com,64390d9c0d0541bc9b06ab42a124b396,DIRECT,83e75a7ae333ca9d
 inmobi.com,8553511ff9e24ce2b1f5d98addcc3340,DIRECT,83e75a7ae333ca9d
 inmobi.com,8f261ace12c3486ba2e0d2011cd97976,RESELLER,83e75a7ae333ca9d
@@ -1101,6 +1104,7 @@ openx.com,83499,RESELLER,6a698e2ec38604c6
 opera.com,pub12058951686464,RESELLER,55a0c5fd61378de3
 opera.com,pub5449961587776,RESELLER,55a0c5fd61378de3
 optimovid.com,22676593736,RESELLER
+outbrain.com,00092743fa380569f00f929c5c50dfccf8,RESELLER
 outbrain.com,0052a42837b505f8ee68b4559b35c4d4d7,RESELLER
 outbrain.com,00f98002a95195662efb6f40c5311a76ff,RESELLER
 outbrain.com,01a755b08c8c22b15d46a8b753ab6955d4,RESELLER
@@ -1264,6 +1268,7 @@ seedtag.com,679d11fbd962b2000734922e,DIRECT
 selectmedia.asia,23053611023,RESELLER
 sharethrough.com,1da17524,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,1udopJ1S,RESELLER,d53b998a7bd4ecd2
+sharethrough.com,3389,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,5530,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,5926d422,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,7144eb80,RESELLER,d53b998a7bd4ecd2
@@ -1289,6 +1294,7 @@ sigma-media.com.pl,60,DIRECT
 smaato.com,1100033117,RESELLER
 smaato.com,1100044650,RESELLER,07bcf65f187117b4
 smaato.com,1100047589,RESELLER,07bcf65f187117b4
+smaato.com,1100053415,RESELLER,07bcf65f187117b4
 smaato.com,1100056344,RESELLER,07bcf65f187117b4
 smaato.com,1100056795,RESELLER,07bcf65f187117b4
 smaato.com,1100058165,RESELLER,07bcf65f187117b4
@@ -1378,6 +1384,7 @@ teads.tv,27924,DIRECT,15a9c44f6d26cbe1
 telaria.com,cpu32-92xut,RESELLER,1a4e959a1b50034a
 telaria.com,lkiu7-jqvg1,RESELLER,1a4e959a1b50034a
 thebrave.io,1234568,RESELLER,c25b2154543746ac
+thebrave.io,1234794,RESELLER,c25b2154543746ac
 thejungletechnology.com,160704,DIRECT
 themediagrid.com,1A2OKI,RESELLER,35d5010d7789b49d
 themediagrid.com,1MCYGZ,DIRECT,35d5010d7789b49d

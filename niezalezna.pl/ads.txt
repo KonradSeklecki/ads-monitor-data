@@ -1139,6 +1139,7 @@ lijit.com, 249425, RESELLER, fafdf38b16bf6b2b
 openx.com, 537145117, RESELLER, a698e2ec38604c6
 rubiconproject.com, 13510, RESELLER, 0bfd66d529a55807
 smartadserver.com, 4839, RESELLER, 060d053dcf45cbf3
+rtbdemand.com, 23342238532, DIRECT
 #ads.txt onnetwork end
 
 
