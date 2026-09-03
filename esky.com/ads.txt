@@ -818,6 +818,7 @@ pubmatic.com, 156177, RESELLER, 5d62403b186f2ace
 video.unrulymedia.com, 266978658, RESELLER
 sharethrough.com, 1175, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 1175-OB, RESELLER, d53b998a7bd4ecd2
+google.com, pub-9219423322857708, DIRECT, f08c47fec0942fa0
 
 ==Ads_WTG==
 google.com, pub-3268638132077067, RESELLER, f08c47fec0942fa0
