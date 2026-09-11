@@ -1407,6 +1407,7 @@ sovrn.com, 277115, RESELLER, fafdf38b16bf6b2b
 sovrn.com, 331050, DIRECT, fafdf38b16bf6b2b
 sovrn.com, 375328, RESELLER, fafdf38b16bf6b2b
 spolecznosci.pl, 5568, DIRECT
+spotim.market, c1cb20fa2bbc39a8f2ec564ac0c157f7, RESELLER
 spotim.market, sp_AYL2022, RESELLER, 077e5f709d15bdbb
 spotx.tv, 111271, RESELLER
 spotx.tv, 147949, RESELLER, 7842df1d2fe2db34

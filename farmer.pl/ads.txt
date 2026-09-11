@@ -141,6 +141,7 @@ adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER, 4ad745ead2958bf7
 adyoulike.com, bcf6c423bc90ec180005086dd9935a1b, RESELLER
 adyoulike.com, bcf6c423bc90ec180005086dd9935a1b, RESELLER, 4ad745ead2958bf7
 adyoulike.com, c1cb20fa2bbc39a8f2ec564ac0c157f7, DIRECT
+adyoulike.com, c1cb20fa2bbc39a8f2ec564ac0c157f7, RESELLER
 adyoulike.com, d47142c399441c4bad6cfa440002cce8, DIRECT
 adyoulike.com, d47142c399441c4bad6cfa440002cce8, DIRECT, 4ad745ead2958bf7
 adyoulike.com, f1dfbb7f133fbdb25c96e7d85a5e628b, RESELLER
@@ -1384,6 +1385,7 @@ sovrn.com, 277115, RESELLER, fafdf38b16bf6b2b
 sovrn.com, 331050, DIRECT, fafdf38b16bf6b2b
 sovrn.com, 375328, RESELLER, fafdf38b16bf6b2b
 spolecznosci.pl, 5568, DIRECT
+spotim.market, c1cb20fa2bbc39a8f2ec564ac0c157f7, RESELLER
 spotim.market, sp_AYL2022, RESELLER, 077e5f709d15bdbb
 spotx.tv, 111271, RESELLER
 spotx.tv, 147949, RESELLER, 7842df1d2fe2db34
