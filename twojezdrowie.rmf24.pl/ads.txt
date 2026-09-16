@@ -2879,7 +2879,7 @@ rubiconproject.com, 22656 , RESELLER, 0bfd66d529a55807
 inmobi.com, 8af6323ce16b4717b930742b6c9911cd, RESELLER, 83e75a7ae333ca9d
 pubmatic.com, 159625, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160851, RESELLER, 5d62403b186f2ace
-??pubmatic.com, 166164, RESELLER, 5d62403b186f2ace
+﻿﻿pubmatic.com, 166164, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161193, RESELLER, 5d62403b186f2ace
 appnexus.com, 12700, RESELLER, f5ab79cb980f11d1
 smartadserver.com, 3356, RESELLER, 060d053dcf45cbf3
@@ -3309,6 +3309,19 @@ amxrtb.com, 105199704, DIRECT
 Adsolut.in, 17081, DIRECT
 playstream.media, 2211, DIRECT
 videoffy.com, vid01217, DIRECT
-google.com, pub-9219423322857708, RESELLER, f08c47fec0942fa0 
+google.com, pub-9219423322857708, RESELLER, f08c47fec0942fa0
 sharethrough.com, 3920, RESELLER, 060d053dcf45cbf3
 rtbhouse.com, yu8h4M66gtyZvJp7K06d, DIRECT
+hcodemedia.com, 189, RESELLER
+google.com, pub-7995104076770938, RESELLER, f08c47fec0942fa0
+openx.com, 542291481, RESELLER, 6a698e2ec38604c6
+openx.com, 543833106, RESELLER, 6a698e2ec38604c6
+aps.amazon.com, ea05d466-f785-4b9a-a030-6fdc6a39498f, RESELLER
+indexexchange.com, 189458, RESELLER, 50b1c356f2c5c8fc
+improvedigital.com, 2031, RESELLER
+betweendigital.com, 43554, RESELLER
+uis.mobfox.com, 165, RESELLER
+contextweb.com, 562899, RESELLER, 89ff185a4c4e857c
+hyperad.tech, 150, RESELLER
+hyperad.tech, 215, RESELLER
+google.com, pub-5533854580432370, RESELLER, f08c47fec0942fa0
