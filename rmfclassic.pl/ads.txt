@@ -1343,3 +1343,5 @@ rubiconproject.com, 25198, RESELLER, 0bfd66d529a55807
 video.unrulymedia.com, 533898005, RESELLER
 thebrave.io, 1234746, RESELLER, c25b2154543746ac
 google.com, pub-9219423322857708, RESELLER, f08c47fec0942fa0
+sharethrough.com, 3920, RESELLER, 060d053dcf45cbf3
+rtbhouse.com, yu8h4M66gtyZvJp7K06d, DIRECT
