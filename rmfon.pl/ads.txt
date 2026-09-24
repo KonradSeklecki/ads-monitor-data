@@ -2924,3 +2924,15 @@ adster.tech, 100011, DIRECT
 google.com, pub-9989685810655749, RESELLER, f08c47fec0942fa0
 rubiconproject.com, 27264, RESELLER, 0b
 rtbhouse.com, XNEdtxheGMSt, RESELLER, 4f3b94578e85950c
+appnexus.com, 12475, RESELLER, f5ab79cb980f11d1
+indexexchange.com, 192311, RESELLER
+yahoo.com, 56860, RESELLER, e1a5b5b6e3255540
+pubmatic.com, 164338, RESELLER, 5d62403b186f2ace
+ogury.com, 872a43cc-b37a-4a5b-abca-93795451435e, RESELLER
+pubmatic.com, 163238, RESELLER, 5d62403b186f2ace
+smartadserver.com, 4537, RESELLER, 060d053dcf45cbf3
+rubiconproject.com, 25198, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 533898005, RESELLER
+thebrave.io, 1234746, RESELLER, c25b2154543746ac
+sharethrough.com, 3920, RESELLER, 060d053dcf45cbf3
+rtbhouse.com, yu8h4M66gtyZvJp7K06d, DIRECT
