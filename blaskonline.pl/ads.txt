@@ -78,6 +78,7 @@ themediagrid.com,qdc97i,DIRECT,35d5010d7789b49d
 risecodes.com,64c7a4acd6298f0001a7d867,RESELLER
 video.unrulymedia.com,664864669,RESELLER
 google.com,pub-2382012522979108,DIRECT,f08c47fec0942fa0
+google.com, pub-1838383201787648, DIRECT, f08c47fec0942fa0
 richaudience.com,gprvtrciic,RESELLER
 appnexus.com,8233,RESELLER
 pubmatic.com,81564,RESELLER,5d62403b186f2ace
