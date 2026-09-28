@@ -1841,3 +1841,28 @@ triplelift.com, 14636-EB, DIRECT, 6c33edb13117fd86
 sharethrough.com, UvcAx8IL, RESELLER, d53b998a7bd4ecd2
 flashb.id, 6cf46500-30a7-49e2-aa2a-769fab9e49a9, DIRECT
 google.com, pub-1495393699279128, DIRECT, f08c47fec0942fa0
+adyoulike.com, 0fbdac222a23692c19a21e4298e468d9, RESELLER
+appnexus.com, 8173, RESELLER, f5ab79cb980f11d1
+appnexus.com, 13424, RESELLER, f5ab79cb980f11d1
+appnexus.com, 14655, RESELLER, f5ab79cb980f11d1
+improvedigital.com, 1884, RESELLER
+improvedigital.com, 2157, RESELLER
+kargo.com, 9165, DIRECT
+missena.com, SID-871775, DIRECT
+onetag.com, 941359b203449a0, RESELLER
+publicismedia.de, 150533, RESELLER
+pubmatic.com, 166421, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162770, RESELLER, 5d62403b186f2ace
+richaudience.com, HLWr9WfM73, RESELLER
+rubiconproject.com, 11864, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24548, RESELLER, 0bfd66d529a55807
+sharethrough.com, 2974, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, 3050, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, 2416, RESELLER
+sharethrough.com, 3803-OB, RESELLER, 060d053dcf45cbf3
+sharethrough.com, 3927, RESELLER, d53b998a7bd4ecd2
+smartadserver.com, 3927, RESELLER, 060d053dcf45cbf3
+smilewanted.com, 3924, RESELLER
+themediagrid.com, IPB3NX, RESELLER, 35d5010d7789b49d
+triplelift.com, 14830, RESELLER, 6c33edb13117fd86
+video.unrulymedia.com, 1858504412, RESELLER
