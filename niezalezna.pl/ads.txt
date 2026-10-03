@@ -1178,6 +1178,19 @@ insticator.com, 23674d5f-87ef-4a55-bc90-324263d3e005, RESELLER, b3511ffcafb23a32
 ssp.cadent.com, 1643, RESELLER, 1e1d41537f7cad7f
 # ads.txt taboola end
 
+adyoulike.com, 16b87fd2fa41ddc6e584a7ef30df0eb3, DIRECT, 4ad745ead2958bf7
+connectad.io, 548, RESELLER, 85ac85a30c93b3e5
+contxtful.com, 260202, DIRECT
+getmediamx.com, 1220580, DIRECT
+onetag.com, 79c9089f60042c0, RESELLER
+onlinemediasolutions.com, 20580, DIRECT
+risecodes.com, 68dbedb40c6f16000154cb4c, DIRECT
+seedtag.com, 67fe7b34e5acdb0008256ea4, DIRECT
+themediagrid.com, QDC97I, DIRECT, 9fac4a4a87c2a44f
+themediagrid.com, ZG1DBN, RESELLER, 9fac4a4a87c2a44f
+yieldmo.com, 2754490424016969782, RESELLER
+zetaglobal.net, 964, RESELLER
+
 # DIRECT Sales: bartlomiejbalinski@swsmedia.pl
 # Programmatic Deals: bartlomiejbalinski@swsmedia.pl
 # v.20260820
