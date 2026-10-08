@@ -213,6 +213,7 @@ freewheel.tv, 872257, RESELLER
 freewheel.tv, 894193, RESELLER
 freewheel.tv, 894193-524565, RESELLER
 freewheel.tv, sg1258265, RESELLER
+gamoshi.io, 267-b6491, DIRECT, 20e30b2ae1f670f2
 google.com, pub-0796790890307838, RESELLER, f08c47fec0942fa0
 google.com, pub-1490961421801363, RESELLER, f08c47fec0942fa0
 google.com, pub-1546102924523412, RESELLER, f08c47fec0942fa0
@@ -513,7 +514,10 @@ risecodes.com, 64c7a4acd6298f0001a7d867, RESELLER
 risecodes.com, 6878c6a1d8a38d000182aeba, DIRECT
 rtbhouse.com, 20Kd5eBlCVDog1190trK, DIRECT
 rtbhouse.com, DPvmdEIcN6xczqVEVpOV, DIRECT
+rtbhouse.com, XNEdtxheGMSt, RESELLER, 4f3b94578e85950c
+rtbhouse.com, XPSLDtnX92XNGGFB6ith, RESELLER, 4f3b94578e85950c
 rtbhouse.com, arBdS5Zp89j0rWkmwMY0, RESELLER
+rtbhouse.com, bFBsGDjLVEO3ojLpg2D7, DIRECT
 rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 12186, RESELLER, 0bfd66d529a55807
@@ -576,6 +580,7 @@ sharethrough.com, 1175-OB, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 1udopJ1S, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 332baa08, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 3554, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, 3920, RESELLER, 060d053dcf45cbf3
 sharethrough.com, 4577, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 5926d422, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 6qlnf8SY, RESELLER, d53b998a7bd4ecd2
@@ -676,6 +681,7 @@ sovrn.com, 260380, RESELLER, fafdf38b16bf6b2b
 sovrn.com, 265566, DIRECT, fafdf38b16bf6b2b
 sovrn.com, 277115, RESELLER, fafdf38b16bf6b2b
 sovrn.com, 375328, RESELLER, fafdf38b16bf6b2b
+spotim.market, c1cb20fa2bbc39a8f2ec564ac0c157f7, RESELLER
 spotim.market, sp_AYL2022, RESELLER, 077e5f709d15bdbb
 ssp.e-volution.ai, AJxF6R4a9M6CaTvK, RESELLER
 start.io, 123111883, RESELLER
@@ -706,6 +712,7 @@ themediagrid.com, P19GFJ, DIRECT, 35d5010d7789b49d
 themediagrid.com, RYIDPE, RESELLER, 35d5010d7789b49d
 themediagrid.com, VIY354, RESELLER, 35d5010d7789b49d
 themediagrid.com, YZ2I83, DIRECT, 35d5010d7789b49d
+themediagrid.com, YZ2I83, DIRECT, 9fac4a4a87c2a44f
 thunder-monetize.com, 1947298216, RESELLER
 tremorhub.com, 4jdlm-4qsx9, RESELLER, 1a4e959a1b50034a
 tremorhub.com, cpu32-92xut, RESELLER, 1a4e959a1b50034a
@@ -731,6 +738,7 @@ undertone.com, 4205, RESELLER, d954590d0cb265b9
 verve.com, 15503, RESELLER, 0c8f5958fc2d6270
 verve.com, 5897, RESELLER, 0c8f5958fc2d6270
 vi.ai, 987349031605160, RESELLER
+vidazoo.com, 6a58d2bb2269048a30ef2120, DIRECT, b6ada874b4d7d0b2
 video.unrulymedia.com, 1014191143, RESELLER
 video.unrulymedia.com, 1295892552, RESELLER
 video.unrulymedia.com, 170071695, RESELLER
