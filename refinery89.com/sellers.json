@@ -123,6 +123,11 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "seller_id": "01780",
+            "name": "aisaura",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "seller_id": "01362",
             "name": "Alain BOLLERY",
             "domain": "creusot-infos.com",
@@ -248,12 +253,6 @@
             "seller_id": "00815",
             "name": "LIP Medien & Lifestyle GmbH",
             "domain": "blaulichtmyk.de",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01723",
-            "name": "Blaulicht Deutschland",
-            "domain": "blaulicht-deutschland.de",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1676,12 +1675,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "00183",
-            "name": "Pijper Publishing B.V.",
-            "domain": "pijpermedia.nl",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "00525",
             "name": "Talentz Web",
             "domain": "pokemonkaart.nl",
@@ -2365,12 +2358,6 @@
             "seller_id": "01663",
             "name": "Waleedhassan11",
             "domain": "mcss.space",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01661",
-            "name": "Waleedhassan13",
-            "domain": "Jobztiw.com",
             "seller_type": "PUBLISHER"
         },
         {
