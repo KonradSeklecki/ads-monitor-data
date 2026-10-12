@@ -1,4 +1,5 @@
 optad360.com,3309312,DIRECT
+google.com, pub-9458467082092429, DIRECT, f08c47fec0942fa0
 adagio.io,1071,RESELLER
 rubiconproject.com,19116,RESELLER,0bfd66d529a55807
 pubmatic.com,159110,RESELLER,5d62403b186f2ace
