@@ -256,6 +256,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "seller_id": "01723",
+            "name": "Blaulicht Deutschland",
+            "domain": "blaulicht-deutschland.de",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "seller_id": "00262",
             "name": "Blue Pixl Media B.V.",
             "domain": "bluepixlmedia.com",
@@ -431,12 +437,6 @@
             "seller_id": "01368",
             "name": "Culturaenserie",
             "domain": "culturaenserie.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01717",
-            "name": "custojusto.pt",
-            "domain": "custojusto.pt",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2046,6 +2046,11 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "seller_id": "01781",
+            "name": "Tay2",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "seller_id": "00800",
             "name": "Techpump Solutions, S.L.",
             "domain": "tokyvideo.com",
@@ -2482,12 +2487,6 @@
             "seller_id": "00001",
             "name": "XGN B.V.",
             "domain": "xgn.nl",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01105",
-            "name": "XXLMarketing",
-            "domain": "cinemaxxl.de",
             "seller_type": "PUBLISHER"
         },
         {
