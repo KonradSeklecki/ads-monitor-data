@@ -1058,6 +1058,11 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "seller_id": "01782",
+            "name": "it4net",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "seller_id": "01767",
             "name": "Jakub Tymowski",
             "seller_type": "PUBLISHER"
