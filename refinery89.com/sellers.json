@@ -2096,6 +2096,11 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "seller_id": "01784",
+            "name": "The Historical Marker Database",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "seller_id": "01249",
             "name": "TheLocal",
             "domain": "thelocal.fr",

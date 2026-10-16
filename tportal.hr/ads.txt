@@ -20,6 +20,7 @@
 33across.com, 001Pg00000GWjtfIAD, RESELLER, bbea06d9c4d2853c
 adagio.io, 1031, DIRECT
 adagio.io, 1031, RESELLER
+adagio.io, 1031-OB, RESELLER
 adagio.io, 1477, RESELLER
 adasta.it, 176, RESELLER
 adcolony.com, 496220845654deec, RESELLER, 1ad675c9de6b5176
