@@ -151,6 +151,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "seller_id": "01712",
+            "name": "amnews.club",
+            "domain": "amnews.club",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "seller_id": "01730",
             "name": "AnabiaC",
             "domain": "Brightfacthub.com",
