@@ -6037,6 +6037,18 @@
  "domain": "niezalezna.pl",
  "seller_type": "PUBLISHER",
  "name": "NIEZALEŻNE WYDAWNICTWO POLSKIE"
+},
+{
+ "seller_id": "35910",
+ "domain": "waw4free.pl",
+ "seller_type": "PUBLISHER",
+ "name": "43Media Mikołaj Kołosowski"
+},
+{
+"seller_id": "6391",
+"domain": " http://wrzuc.info  ",
+"seller_type": "PUBLISHER",
+"name": "DISENEO ARTUR PAWŁOWSKI"
 }
    ]
 }
