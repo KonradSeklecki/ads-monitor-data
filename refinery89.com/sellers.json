@@ -1541,11 +1541,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "01714",
-            "name": "Nius",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "01604",
             "name": "Owlstaa",
             "seller_type": "PUBLISHER"
@@ -2023,12 +2018,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "01718",
-            "name": "Super Placar",
-            "domain": "Superplacar.com.br",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "01710",
             "name": "superstarbio",
             "domain": "superstarbio.xyz",
@@ -2242,12 +2231,6 @@
             "seller_id": "00776",
             "name": "Harald Zettler",
             "domain": "uncut.at",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01557",
-            "name": "Uni Rehberi",
-            "domain": "unirehberi.com",
             "seller_type": "PUBLISHER"
         },
         {
