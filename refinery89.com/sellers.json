@@ -1071,6 +1071,7 @@
         {
             "seller_id": "01782",
             "name": "it4net",
+            "domain": "deon.pl",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1093,7 +1094,7 @@
         {
             "seller_id": "01379",
             "name": "JINK",
-            "domain": "www.jink.de",
+            "domain": "jink.de",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1462,6 +1463,12 @@
             "seller_id": "00604",
             "name": "Jorge Juan Miralles Vernon",
             "domain": "meteosat.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "01287",
+            "name": "metropoles",
+            "domain": "metropoles.com",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2012,9 +2019,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "00178",
-            "name": "AMSTERDAM24 MARKETING",
-            "domain": "challas.nl",
+            "seller_id": "01718",
+            "name": "Super Placar",
+            "domain": "Superplacar.com.br",
             "seller_type": "PUBLISHER"
         },
         {
