@@ -90,6 +90,7 @@ adyoulike.com, c1cb20fa2bbc39a8f2ec564ac0c157f7, DIRECT
 adyoulike.com, c1cb20fa2bbc39a8f2ec564ac0c157f7, RESELLER
 adyoulike.com, d47142c399441c4bad6cfa440002cce8, DIRECT
 adyoulike.com, f1dfbb7f133fbdb25c96e7d85a5e628b, RESELLER
+adyoulike.com, f1dfbb7f133fbdb25c96e7d85a5e628b, RESELLER, 4ad745ead2958bf7
 ampliffy.com, amp00076, RESELLER
 amxrtb.com, 105199329, RESELLER
 amxrtb.com, 105199423, DIRECT
@@ -112,12 +113,14 @@ appads.in, 107606, RESELLER
 appbroda.com, 1023, DIRECT
 applixir.com, DAA, DIRECT
 appnexus.com, 10040, RESELLER
+appnexus.com, 10040, RESELLER, f5ab79cb980f11d1
 appnexus.com, 10176, RESELLER, f5ab79cb980f11d1
 appnexus.com, 1019, RESELLER, f5ab79cb980f11d1
 appnexus.com, 10239, RESELLER, f5ab79cb980f11d1
 appnexus.com, 10264, RESELLER, f5ab79cb980f11d1
 appnexus.com, 10736, RESELLER
 appnexus.com, 11470, RESELLER
+appnexus.com, 11470, RESELLER, f5ab79cb980f11d1
 appnexus.com, 11664, RESELLER
 appnexus.com, 11701, RESELLER
 appnexus.com, 11786, RESELLER
@@ -129,6 +132,7 @@ appnexus.com, 1199, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12290, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12976, RESELLER, f5ab79cb980f11d1
 appnexus.com, 13099, RESELLER
+appnexus.com, 13099, RESELLER, f5ab79cb980f11d1
 appnexus.com, 13309, RESELLER
 appnexus.com, 13411, RESELLER
 appnexus.com, 13412, RESELLER
@@ -164,6 +168,7 @@ appnexus.com, 7763, RESELLER
 appnexus.com, 7837, RESELLER, f5ab79cb980f11d1
 appnexus.com, 8183, RESELLER, f5ab79cb980f11d1
 appnexus.com, 8233, RESELLER
+appnexus.com, 8233, RESELLER, f5ab79cb980f11d1
 appnexus.com, 8738, RESELLER, f5ab79cb980f11d1
 appnexus.com, 8804, RESELLER
 appnexus.com, 8833, RESELLER, f5ab79cb980f11d1
@@ -325,6 +330,7 @@ google.com, pub-5157263156975427, RESELLER, f08c47fec0942fa0
 google.com, pub-5288942393505373, RESELLER, f08c47fec0942fa0
 google.com, pub-5321339231582974, RESELLER, f08c47fec0942fa0
 google.com, pub-5443361439335742, DIRECT
+google.com, pub-5443361439335742, RESELLER
 google.com, pub-5443361439335742, RESELLER, f08c47fec0942fa0
 google.com, pub-5617098146054077, RESELLER, f08c47fec0942fa0
 google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0
@@ -440,6 +446,7 @@ lijit.com, 244287, RESELLER, fafdf38b16bf6b2b
 lijit.com, 244287-eb, DIRECT, fafdf38b16bf6b2b
 lijit.com, 244287-eb, RESELLER, fafdf38b16bf6b2b
 lijit.com, 249425, RESELLER
+lijit.com, 249425, RESELLER, fafdf38b16bf6b2b
 lijit.com, 257429, RESELLER, fafdf38b16bf6b2b
 lijit.com, 257429-eb, RESELLER, fafdf38b16bf6b2b
 lijit.com, 260380, RESELLER, fafdf38b16bf6b2b
@@ -529,6 +536,7 @@ onetag.com, 88b71279eecd32c-OB, DIRECT
 onetag.com, 894a3f52ea9e6d4-OB, RESELLER
 onetag.com, 8c90176af2e65c8, RESELLER
 onetag.com, 8d4b087143c49f0, RESELLER
+onetag.com, 9383f01b6e69310, RESELLER
 onetag.com,9383f01b6e69310, RESELLER
 onlinemediasolutions.com, 20580, DIRECT, b3868b187e4b6403
 onomagic.com, 205801, DIRECT
@@ -731,7 +739,9 @@ rubiconproject.com, 12186, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 12266, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 13132, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 13510, RESELLER
+rubiconproject.com, 13510, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 13732, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 15268, RESELLER
 rubiconproject.com, 15268, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 16114, RESELLER
 rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
@@ -1011,6 +1021,7 @@ video.unrulymedia.com, 498216989, RESELLER
 video.unrulymedia.com, 533898005, RESELLER
 video.unrulymedia.com, 5672421953199218469, RESELLER
 video.unrulymedia.com, 583925374, RESELLER
+video.unrulymedia.com, 586616193, RESELLER
 video.unrulymedia.com, 592728597, RESELLER
 video.unrulymedia.com, 703273072, RESELLER
 video.unrulymedia.com, 799061815, RESELLER
