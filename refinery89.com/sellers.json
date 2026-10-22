@@ -112,6 +112,11 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "seller_id": "01785",
+            "name": "Ageverif",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "seller_id": "00403",
             "name": "Lionel Piccoli",
             "domain": "aidedd.org",
@@ -2375,6 +2380,12 @@
             "seller_id": "01663",
             "name": "Waleedhassan11",
             "domain": "mcss.space",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "01662",
+            "name": "Waleedhassan12",
+            "domain": "custojusto.pt",
             "seller_type": "PUBLISHER"
         },
         {
