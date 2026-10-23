@@ -145,11 +145,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "01755",
-            "name": "Alpha Coders",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "00908",
             "name": "alpha Advertising GmbH",
             "domain": "automagazinplus.de",
@@ -1027,11 +1022,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "01762",
-            "name": "Infobae",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "00981",
             "name": "Wepi - Web Portuguese Platforms, Unipessoal Lda",
             "domain": "infofunerais.pt",
@@ -1126,20 +1116,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "01634",
-            "name": "jymagencia.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "01084",
             "name": "KIDSENKURKEN",
             "domain": "kidsenkurken.nl",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01114",
-            "name": "KKSLECH.com",
-            "domain": "kkslech.com",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1754,12 +1733,6 @@
             "seller_id": "00793",
             "name": "Puna BV",
             "domain": "puna.nl",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01107",
-            "name": "Punch Nigeria Limited",
-            "domain": "punchng.com",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2397,12 +2370,6 @@
             "seller_id": "01669",
             "name": "Waleedhassan15",
             "domain": "jackintheboxmnu.net",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01670",
-            "name": "Waleedhassan16",
-            "domain": "thecookoutmenus.net",
             "seller_type": "PUBLISHER"
         },
         {
