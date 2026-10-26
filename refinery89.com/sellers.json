@@ -448,6 +448,7 @@
         {
             "seller_id": "01729",
             "name": "CyclingFantasy",
+            "domain": "cyclingfantasy.cc",
             "seller_type": "PUBLISHER"
         },
         {
@@ -919,6 +920,7 @@
         {
             "seller_id": "01695",
             "name": "hattrick.org",
+            "domain": "hattrick.org",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1072,6 +1074,7 @@
         {
             "seller_id": "01767",
             "name": "Jakub Tymowski",
+            "domain": "literalnie.fun",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1354,6 +1357,7 @@
         {
             "seller_id": "01770",
             "name": "Marek Maliszewski",
+            "domain": "4lomza.pl",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1377,6 +1381,7 @@
         {
             "seller_id": "01741",
             "name": "Mbweb",
+            "domain": "meteobelgique.be",
             "seller_type": "PUBLISHER"
         },
         {
