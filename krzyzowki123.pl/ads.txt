@@ -1141,7 +1141,7 @@ teads.tv, 27924, DIRECT, 15a9c44f6d26cbe1
 sharethrough.com, 3920, RESELLER, 060d053dcf45cbf3
 rtbhouse.com, XNEdtxheGMSt, RESELLER, 4f3b94578e85950c
 ogury.com, 872a43cc-b37a-4a5b-abca-93795451435e, RESELLER
-
+connectad.io, 118, RESELLER, 85ac85a30c93b3e5
 
 
 
