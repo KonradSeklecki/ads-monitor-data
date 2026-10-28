@@ -1371,6 +1371,11 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "seller_id": "01789",
+            "name": "Mathepower",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "seller_id": "00952",
             "name": "-",
             "domain": "tarifdouanier.eu",
