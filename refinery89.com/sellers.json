@@ -347,12 +347,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "01444",
-            "name": "chavesnamao",
-            "domain": "chavesnamao.com.br",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "00606",
             "name": "Misioneros Claretianos - Provincia De Santiago",
             "domain": "ciudadredonda.org",
@@ -420,6 +414,11 @@
         {
             "seller_id": "01738",
             "name": "Cosmose Pte. Ltd BB",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "01788",
+            "name": "cotilleando",
             "seller_type": "PUBLISHER"
         },
         {
