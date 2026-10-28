@@ -681,12 +681,6 @@
    "name": "Bohol Chronicle Radio Corporation"
   },
   {
-   "seller_id": "18395025",
-   "domain": "bankier.pl",
-   "seller_type": "PUBLISHER",
-   "name": "Bonnier Business (Polska) Sp. z o.o."
-  },
-  {
    "seller_id": "18395026",
    "domain": "botrini.gr",
    "seller_type": "PUBLISHER",
@@ -4388,8 +4382,8 @@
   "seller_type": "PUBLISHER",
   "name": "Vinted"
   },
-  {
-   "seller_id": "28071",
+   {
+   "seller_id": "29903",
    "domain": "bankier.pl",
    "seller_type": "PUBLISHER",
    "name": "BONNIER"
@@ -6049,6 +6043,12 @@
 "domain": " http://wrzuc.info  ",
 "seller_type": "PUBLISHER",
 "name": "DISENEO ARTUR PAWŁOWSKI"
-}
+},
+{
+   "seller_id": "31142",
+   "domain": "psdeals.net",
+   "seller_type": "PUBLISHER",
+   "name": "Ironpaw"
+  }
    ]
 }
