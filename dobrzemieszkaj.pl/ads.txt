@@ -69,6 +69,7 @@ adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER, 4ad745ead2958bf7
 adyoulike.com, bcf6c423bc90ec180005086dd9935a1b, RESELLER
 adyoulike.com, c1cb20fa2bbc39a8f2ec564ac0c157f7, DIRECT
 adyoulike.com, c1cb20fa2bbc39a8f2ec564ac0c157f7, RESELLER
+adyoulike.com, d6510e963c668969f4eda6c602c8ea36, DIRECT
 adyoulike.com, f1dfbb7f133fbdb25c96e7d85a5e628b, RESELLER
 ampliffy.com, amp00076, RESELLER
 amxrtb.com, 105199557, DIRECT
@@ -122,6 +123,7 @@ appnexus.com, 3663, RESELLER, f5ab79cb980f11d1
 appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
 appnexus.com, 3927, DIRECT, f5ab79cb980f11d1
 appnexus.com, 4052, RESELLER
+appnexus.com, 6933, RESELLER, f5ab79cb980f11d1
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
 appnexus.com, 7664, RESELLER
 appnexus.com, 7837, RESELLER, f5ab79cb980f11d1
@@ -195,6 +197,7 @@ eskimi.com, 2020000792, RESELLER
 eskimi.com, 2020000802, RESELLER
 eskimi.com, eas-2020000005, RESELLER
 flashb.id, 6cf46500-30a7-49e2-aa2a-769fab9e49a9, DIRECT
+flashb.id, 76e0cd4c-c5f5-57cf-b595-eed03a0ad0b2, DIRECT
 freewheel.com, 435713, RESELLER
 freewheel.com, 435777, RESELLER
 freewheel.tv, 1133073, RESELLER
@@ -355,6 +358,7 @@ mobfox.com, 45499, RESELLER
 mobfox.com, 74240, RESELLER
 mobupps.com, c74d97b01eae257e44aa9d5bade97baf33148, RESELLER
 motorik.io, 100463, RESELLER
+nativo.com, 5740, RESELLER, 59521ca7cc5e9fee
 nativo.com, 5848, RESELLER, 59521ca7cc5e9fee
 netpoint-media.de, np-7871, RESELLER
 ogury.com, 872a43cc-b37a-4a5b-abca-93795451435e, RESELLER
@@ -435,6 +439,7 @@ pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156325, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156383, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156423, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156425, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156439, RESELLER
 pubmatic.com, 156439, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156498, RESELLER, 5d62403b186f2ace
@@ -531,6 +536,7 @@ rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807 #33Across #hb #tag
 rubiconproject.com, 16824, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17184, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 17210, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 17250, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807
@@ -582,6 +588,7 @@ sharethrough.com, 332baa08, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 3554, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 3920, RESELLER, 060d053dcf45cbf3
 sharethrough.com, 4577, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, 4984, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 5926d422, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 6qlnf8SY, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 7144eb80, RESELLER, d53b998a7bd4ecd2
@@ -609,6 +616,7 @@ smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
 smaato.com, 1100056344, RESELLER, 07bcf65f187117b4
 smaato.com, 1100056735, DIRECT, 07bcf65f187117b4
 smaato.com, 1100059563, RESELLER, 07bcf65f187117b4
+smaato.com, 1100060456, RESELLER, 07bcf65f187117b4
 smartadline.com, 90643844, DIRECT
 smartadserver.com, 1175, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 1175-OB, RESELLER, 060d053dcf45cbf3
@@ -682,6 +690,7 @@ sovrn.com, 265566, DIRECT, fafdf38b16bf6b2b
 sovrn.com, 277115, RESELLER, fafdf38b16bf6b2b
 sovrn.com, 375328, RESELLER, fafdf38b16bf6b2b
 spotim.market, c1cb20fa2bbc39a8f2ec564ac0c157f7, RESELLER
+spotim.market, pub_AC9vHQgtwNbY, DIRECT, 077e5f709d15bdbb
 spotim.market, sp_AYL2022, RESELLER, 077e5f709d15bdbb
 ssp.e-volution.ai, AJxF6R4a9M6CaTvK, RESELLER
 start.io, 123111883, RESELLER
@@ -716,6 +725,7 @@ themediagrid.com, YZ2I83, DIRECT, 9fac4a4a87c2a44f
 thunder-monetize.com, 1947298216, RESELLER
 tremorhub.com, 4jdlm-4qsx9, RESELLER, 1a4e959a1b50034a
 tremorhub.com, cpu32-92xut, RESELLER, 1a4e959a1b50034a
+triplelift.com, 10504, RESELLER, 6c33edb13117fd86
 triplelift.com, 11656, RESELLER, 6c33edb13117fd86
 triplelift.com, 12158, RESELLER, 6c33edb13117fd86
 triplelift.com, 12396, RESELLER, 6c33edb13117fd86
