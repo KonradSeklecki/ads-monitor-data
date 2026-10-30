@@ -1118,7 +1118,6 @@ pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156325, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156383, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156423, RESELLER, 5d62403b186f2ace
-pubmatic.com, 156425, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156439, RESELLER
 pubmatic.com, 156439, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156498, RESELLER, 5d62403b186f2ace
@@ -1778,7 +1777,6 @@ themediagrid.com, 2LYG9A, RESELLER, 35d5010d7789b49d
 themediagrid.com, B8N9YH, RESELLER, 35d5010d7789b49d
 themediagrid.com, BIH5U6, RESELLER, 35d5010d7789b49d
 themediagrid.com, HLDOIR, DIRECT, 35d5010d7789b49d
-themediagrid.com, HLDOIR, DIRECT, 9fac4a4a87c2a44f
 themediagrid.com, I2G5ZV, RESELLER, 35d5010d7789b49d
 themediagrid.com, JTQKMP, RESELLER, 35d5010d7789b49d
 themediagrid.com, NEJFKT, RESELLER, 9fac4a4a87c2a44f
