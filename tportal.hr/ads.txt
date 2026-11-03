@@ -71,6 +71,7 @@ adipolosolutions.com, 22696520452, DIRECT
 adipolosolutions.com, 22915330089, DIRECT
 adipolosolutions.com, 23096300634, DIRECT
 adipolosolutions.com, 90643844, DIRECT
+admanmedia.com, 1063, RESELLER
 admanmedia.com, 2216, RESELLER
 admanmedia.com, 43, RESELLER
 admanmedia.com, 45, DIRECT
@@ -349,6 +350,7 @@ e-planning.net, 9522026ef023606d, RESELLER, c1ba615865ed87b2
 e-planning.net, b37ed21aa3e45e7e, DIRECT, c1ba615865ed87b2
 e-planning.net, f5c3215b3e8d02f7, DIRECT, c1ba615865ed87b2
 eskimi.com, 2020001129, DIRECT
+eskimi.com, 2020001164, RESELLER
 eskimi.com, eas-2020000005, RESELLER
 experian.com, 0001, RESELLER
 exponential.com, 176980, DIRECT, afac06385c445926
@@ -555,6 +557,7 @@ improvedigital.com, 2154, RESELLER
 improvedigital.com, 2390, RESELLER
 improvedigital.com, 2418, RESELLER
 improvedigital.com, 2482, RESELLER
+improvedigital.com, 2650, RESELLER
 improvedigital.com, 2787, RESELLER
 incrementx.com, 50003, DIRECT, 8728b7e97e589da4
 incrementx.com, 60415, DIRECT, 8728b7e97e589da4
@@ -812,6 +815,7 @@ outbrain.com, 005956db3280a3edc509943683314696bf, RESELLER, 0f386b90a31b81ee
 outbrain.com, 00595a29fe0f0efa37cd675959d6128c78, RESELLER, 0f386b90a31b81ee
 outbrain.com, 00a670afb7f205a88f4f78ec90b4fa7c16, RESELLER, 0f386b90a31b81ee
 outbrain.com, 00fe7cdd9f63b40ea93c0c4ae346bf4541, RESELLER, 0f386b90a31b81ee
+peopleads.co, 67f7fb873eaf29526a11a9b7ac33bfac37240, RESELLER
 pgamssp.com, pg-6814, DIRECT
 pixfuture.com, 10568, DIRECT
 platform.videologygroup.com, 2982, RESELLER
@@ -987,6 +991,8 @@ rtbhouse.com, d2380d6f45eaac2c7d22, DIRECT, 4f3b94578e85950c
 rtbhouse.com, DPvmdEIcN6xczqVEVpOV, DIRECT, 4f3b94578e85950c
 rtbhouse.com, EefWcJBKx9LNoMMHclsk, DIRECT, 4f3b94578e85950c
 rtbhouse.com, wed0epy3b6Wg3KDMeJ5n, DIRECT, 4f3b94578e85950c
+rtbhouse.com, XNEdtxheGMSt, RESELLER, 4f3b94578e85950c
+rtbhouse.com, XPSLDtnX92XNGGFB6ith, RESELLER, 4f3b94578e85950c
 rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 11334, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
@@ -1296,6 +1302,7 @@ triplelift.com, 13982-EB, DIRECT, 6c33edb13117fd86
 triplelift.com, 14073, RESELLER, 6c33edb13117fd86
 triplelift.com, 14636, DIRECT, 6c33edb13117fd86
 triplelift.com, 14636-EB, DIRECT, 6c33edb13117fd86
+triplelift.com, 14851, RESELLER, 6c33edb13117fd86
 triplelift.com, 6419, DIRECT, 6c33edb13117fd86
 triplelift.com, 6419-EB, DIRECT, 6c33edb13117fd86
 triplelift.com, 7355, DIRECT, 6c33edb13117fd86
@@ -1372,6 +1379,7 @@ wpartner.pl, 22444050393, DIRECT
 wpartner.pl, 364, DIRECT
 wpartner.pl, 584, DIRECT
 x.adprime.com, AJxF6R19a9M6CaTvK, RESELLER
+x.adprime.com, AJxF6R59a9M6CaTvK, RESELLER
 x.fidelity-media.com, 4164, DIRECT
 xad.com, 240, RESELLER, 81cbf0a75a5e0e9a
 xad.com, 241, RESELLER, 81cbf0a75a5e0e9a
@@ -1405,6 +1413,7 @@ yoc.com, 5526, DIRECT
 yoc.com, 5591, DIRECT
 yoc.com, 5879, DIRECT
 zetaglobal.net, 620, DIRECT
+zetaglobal.net, 716, RESELLER
 zetaglobal.net, 891, RESELLER
 
 #TRUVID
