@@ -445,6 +445,11 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "seller_id": "01790",
+            "name": "Curizic",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "seller_id": "01729",
             "name": "CyclingFantasy",
             "domain": "cyclingfantasy.cc",
