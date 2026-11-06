@@ -274,6 +274,11 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "seller_id": "01792",
+            "name": "Bluefieldmedia",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "seller_id": "01480",
             "name": "BNMEDIA",
             "domain": "bnmedia.co.uk",
