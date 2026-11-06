@@ -302,6 +302,11 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "seller_id": "01753",
+            "name": "BrugMedia",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "seller_id": "01775",
             "name": "BuddyBoardGames LLC",
             "seller_type": "PUBLISHER"
@@ -1621,11 +1626,6 @@
             "seller_id": "00400",
             "name": "Online Sports Publishing B.V.",
             "domain": "soccerstats.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01753",
-            "name": "OptOut",
             "seller_type": "PUBLISHER"
         },
         {
