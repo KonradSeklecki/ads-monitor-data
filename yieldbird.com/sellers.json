@@ -111,12 +111,6 @@
    "name": "fdb.pl"
   },
   {
-   "seller_id": "18374",
-   "domain": "gazeta.pl",
-   "seller_type": "PUBLISHER",
-   "name": "GAZETA"
-  },
-  {
    "seller_id": "18375",
    "domain": "tokfm.pl",
    "seller_type": "PUBLISHER",
@@ -1813,12 +1807,6 @@
    "domain": "findglocal.com",
    "seller_type": "PUBLISHER",
    "name": "FindGlocal Limited"
-  },
-  {
-   "seller_id": "18374001",
-   "domain": "sport.pl",
-   "seller_type": "PUBLISHER",
-   "name": "GAZETA"
   },
   {
    "seller_id": "18374002",
