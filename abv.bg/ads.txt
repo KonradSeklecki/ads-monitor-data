@@ -1108,3 +1108,6 @@ teads.tv, 26730, DIRECT, 15a9c44f6d26cbe1
 sharethrough.com, a6a34444, RESELLER, d53b998a7bd4ecd2
 inmobi.com, e98f0d119adf44788d60132b6e20fc5d, RESELLER, 83e75a7ae333ca9d
 sharethrough.com, 3920, RESELLER, 060d053dcf45cbf3
+pubmatic.com, 168313, RESELLER, 5d62403b186f2ace
+rtbhouse.com, XNEdtxheGMSt, RESELLER, 4f3b94578e85950c
+rtbhouse.com, XPSLDtnX92XNGGFB6ith, RESELLER, 4f3b94578e85950c
