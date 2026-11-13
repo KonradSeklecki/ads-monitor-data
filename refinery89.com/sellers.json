@@ -1681,6 +1681,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "seller_id": "00183",
+            "name": "Pijper Publishing B.V.",
+            "domain": "pijpermedia.nl",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "seller_id": "00525",
             "name": "Talentz Web",
             "domain": "pokemonkaart.nl",
