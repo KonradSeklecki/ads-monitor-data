@@ -405,7 +405,8 @@
         },
         {
             "seller_id": "01737",
-            "name": "kaik.ai",
+            "name": "Cosmose Limited - BB",
+            "domain": "kaik.ai",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1063,6 +1064,11 @@
             "seller_id": "01782",
             "name": "it4net",
             "domain": "deon.pl",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "01795",
+            "name": "ITLU sp. z o.o.",
             "seller_type": "PUBLISHER"
         },
         {
