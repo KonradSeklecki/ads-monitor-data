@@ -1114,6 +1114,11 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "seller_id": "01092",
+            "name": "Junge Freiheit",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "seller_id": "01763",
             "name": "Just Arsenal",
             "seller_type": "PUBLISHER"
@@ -1760,6 +1765,12 @@
             "seller_id": "00527",
             "name": "Red77",
             "domain": "km77.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "01218",
+            "name": "Refinery89",
+            "domain": "gpinfo.com",
             "seller_type": "PUBLISHER"
         },
         {
