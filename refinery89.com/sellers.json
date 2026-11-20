@@ -289,6 +289,11 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "seller_id": "01796",
+            "name": "Bondar",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "seller_id": "01108",
             "name": "Almudena Orellana Palomares",
             "domain": "bosquedefantasias.com",
@@ -468,6 +473,11 @@
             "seller_id": "01564",
             "name": "Deporvillage",
             "domain": "Deporvillage.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "01303",
+            "name": "Der Farang",
             "seller_type": "PUBLISHER"
         },
         {
