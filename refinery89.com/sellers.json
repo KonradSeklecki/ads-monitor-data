@@ -2405,6 +2405,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "seller_id": "00187",
+            "name": "WeBlog Media B.V.",
+            "domain": "carrieretijger.nl",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "seller_id": "01668",
             "name": "WEBNESTPK",
             "seller_type": "PUBLISHER"
