@@ -150,32 +150,14 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "01712",
-            "name": "amnews.club",
-            "domain": "amnews.club",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01730",
-            "name": "AnabiaC",
-            "domain": "Brightfacthub.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01728",
-            "name": "AnabiaCh",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01707",
-            "name": "Anabiya",
-            "domain": "Teamnamesidea.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "01270",
             "name": "AnderlechtOnline",
             "domain": "anderlecht-online.be",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "01797",
+            "name": "Andy's Auto Sport",
             "seller_type": "PUBLISHER"
         },
         {
@@ -188,11 +170,6 @@
             "seller_id": "01608",
             "name": "AnimalPolitico",
             "domain": "criteriohidalgo.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01746",
-            "name": "ashiyaana",
             "seller_type": "PUBLISHER"
         },
         {
@@ -708,12 +685,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "01719",
-            "name": "Faiq",
-            "domain": "rmdi.site",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "00719",
             "name": "Faqts.net",
             "domain": "faqts.net",
@@ -1107,12 +1078,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "01053",
-            "name": "rent-a-word",
-            "domain": "ansage.org",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "00967",
             "name": "JRS Media",
             "domain": "mamasenomas.nl",
@@ -1325,11 +1290,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "01727",
-            "name": "Luxury Homes",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "01626",
             "name": "Maciej Puchalski",
             "domain": "gazetkapromocyjna.com.pl",
@@ -1445,12 +1405,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "01704",
-            "name": "menupricescanada.net",
-            "domain": "Menupricescanada.net",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "01272",
             "name": "Menuvegetarien",
             "domain": "menu-vegetarien.com",
@@ -1507,12 +1461,6 @@
             "seller_id": "00997",
             "name": "Jessica QUILLET",
             "domain": "mycake.fr",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01699",
-            "name": "Namesbranch",
-            "domain": "namesbranch.com",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1692,11 +1640,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "01740",
-            "name": "Prestigehomesdaily",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "01073",
             "name": "Primera Edicion",
             "domain": "primeraedicion.com.ar",
@@ -1856,12 +1799,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "01566",
-            "name": "SG Menu",
-            "domain": "arabicmenu.net",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "00401",
             "name": "Slecht Beheer BV",
             "domain": "slechtbeheer.nl",
@@ -1877,11 +1814,6 @@
             "seller_id": "00165",
             "name": "Favourite Stuff",
             "domain": "showmag.nl",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01744",
-            "name": "Signaturevillalife",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1986,12 +1918,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "01710",
-            "name": "superstarbio",
-            "domain": "superstarbio.xyz",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "01233",
             "name": "Supporters",
             "domain": "supporters.nl",
@@ -2000,16 +1926,6 @@
         {
             "seller_id": "01768",
             "name": "Take That Limited",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01731",
-            "name": "Tax Cre",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01769",
-            "name": "Tay",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2033,11 +1949,6 @@
             "seller_id": "00195",
             "name": "On The Field bv",
             "domain": "footnews.be",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01747",
-            "name": "templaterevenue",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2263,11 +2174,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "01743",
-            "name": "Villamarketguide",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "00858",
             "name": "ViraalVideo",
             "domain": "doehetzelfcreatie.nl",
@@ -2316,89 +2222,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "seller_id": "01253",
-            "name": "Waleedhassan",
-            "domain": "gameorbits.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01663",
-            "name": "Waleedhassan11",
-            "domain": "mcss.space",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01662",
-            "name": "Waleedhassan12",
-            "domain": "custojusto.pt",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01661",
-            "name": "Waleedhassan13",
-            "domain": "Jobztiw.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01664",
-            "name": "Waleedhassan14",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01669",
-            "name": "Waleedhassan15",
-            "domain": "jackintheboxmnu.net",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01670",
-            "name": "Waleedhassan16",
-            "domain": "thecookoutmenus.net",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01673",
-            "name": "Waleedhassan18",
-            "domain": "bojanglesmenuprice.net",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01674",
-            "name": "Waleedhassan19",
-            "domain": "texasroadhousemenuus.net",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01592",
-            "name": "Waleedhassan2",
-            "domain": "Forestfable.store",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01591",
-            "name": "Waleedhassan3",
-            "domain": "crypture.fun",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01590",
-            "name": "Waleedhassan4",
-            "domain": "tradebloxy.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01588",
-            "name": "Waleedhassan6",
-            "domain": "Ringsiderecap.com",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01586",
-            "name": "Waleedhassan7",
-            "domain": "reelnexus.site",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "seller_id": "00810",
             "name": "Ludulicious B.V.",
             "domain": "markanda.nl",
@@ -2408,11 +2231,6 @@
             "seller_id": "00187",
             "name": "WeBlog Media B.V.",
             "domain": "carrieretijger.nl",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01668",
-            "name": "WEBNESTPK",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2460,11 +2278,6 @@
             "seller_id": "00001",
             "name": "XGN B.V.",
             "domain": "xgn.nl",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "seller_id": "01759",
-            "name": "YourDailyInsight",
             "seller_type": "PUBLISHER"
         },
         {
