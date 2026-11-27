@@ -274,12 +274,13 @@
         {
             "seller_id": "01525",
             "name": "Brettspiel-News",
+            "domain": "Brettspiel-news.de",
             "seller_type": "PUBLISHER"
         },
         {
             "seller_id": "01753",
             "name": "BrugMedia",
-            "domain": "brugmedia.nl",
+            "domain": "BrugMedia.nl",
             "seller_type": "PUBLISHER"
         },
         {
@@ -395,6 +396,7 @@
         {
             "seller_id": "01788",
             "name": "cotilleando",
+            "domain": "Cotilleando.com",
             "seller_type": "PUBLISHER"
         },
         {
@@ -440,6 +442,7 @@
         {
             "seller_id": "01783",
             "name": "David Kelly Design Office Ltd",
+            "domain": "Celticnewsnow.com",
             "seller_type": "PUBLISHER"
         },
         {
@@ -694,6 +697,7 @@
         {
             "seller_id": "01779",
             "name": "Fiducial media",
+            "domain": "Olympique-et-lyonnais.com",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1041,6 +1045,7 @@
         {
             "seller_id": "01795",
             "name": "ITLU sp. z o.o.",
+            "domain": "Lublin112.pl",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1134,6 +1139,7 @@
         {
             "seller_id": "01609",
             "name": "krzy\u017c\u00f3wki123",
+            "domain": "Krzyzowki123.pl",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1317,6 +1323,7 @@
         {
             "seller_id": "01786",
             "name": "Mapa Turystyczna- Szymon Engel",
+            "domain": "Mapa-turystyczna.pl",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1334,6 +1341,7 @@
         {
             "seller_id": "01789",
             "name": "Mathepower",
+            "domain": "Mathepower.com",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1679,6 +1687,7 @@
         {
             "seller_id": "01607",
             "name": "QuintoAndar",
+            "domain": "Wimoveis.com.br",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1998,6 +2007,7 @@
         {
             "seller_id": "01708",
             "name": "Tomasz Jaworski",
+            "domain": "Poocoo.pl",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2263,6 +2273,7 @@
         {
             "seller_id": "01752",
             "name": "ZePerfs",
+            "domain": "Zeperfs.com",
             "seller_type": "PUBLISHER"
         },
         {
