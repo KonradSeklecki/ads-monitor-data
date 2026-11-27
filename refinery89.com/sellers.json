@@ -2202,6 +2202,11 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "seller_id": "01798",
+            "name": "Webedia",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "seller_id": "00810",
             "name": "Ludulicious B.V.",
             "domain": "markanda.nl",
